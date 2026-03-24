@@ -3,17 +3,9 @@ export const categories = [
     id: 'academics',
     title: 'Academics',
     committees: [
-      { id: 'students-grievance', name: 'Students Grievance & Redressal Committee' },
+      { id: ' academic planning ', name: 'Academic Planning ' },
       { id: 'women-grievance', name: 'Women Grievance & Redressal Committee' },
       { id: 'academic-admin-audit', name: 'Academic & Admin Audit Committee' },
-      { id: 'nss-committee', name: 'NSS Committee' },
-      { id: 'ncc-committee', name: 'NCC Committee' },
-      { id: 'library-committee', name: 'Library Committee' },
-      { id: 'iqac-committee', name: 'IQAC Committee' },
-      { id: 'academic-planning', name: 'Academic Planning & Development Committee' },
-      { id: 'examination-committee', name: 'Examination Committee' },
-      { id: 'rd-cell', name: 'R & D Cell' },
-    ]
   },
   {
     id: 'administration',

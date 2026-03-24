@@ -5,7 +5,7 @@ export const categories = [
     committees: [
       { id: ' Academic Planning ', name: 'Academic Planning ' },
       { id: 'Library Advisory', name: 'Library Advisory' },
-      { id: 'Industry Institute Interaction', name: 'Industry Institute Interaction' },
+      { id: 'Industry Institute Interaction', name: 'Industry Institute InteractiOn' },
   },
   {
     id: 'admisions',

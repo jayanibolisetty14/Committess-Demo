@@ -3,43 +3,29 @@ export const categories = [
     id: 'academics',
     title: 'Academics',
     committees: [
-      { id: ' academic planning ', name: 'Academic Planning ' },
-      { id: 'women-grievance', name: 'Women Grievance & Redressal Committee' },
-      { id: 'academic-admin-audit', name: 'Academic & Admin Audit Committee' },
+      { id: ' Academic Planning ', name: 'Academic Planning ' },
+      { id: 'Library Advisory', name: 'Library Advisory' },
+      { id: 'Industry Institute Interaction', name: 'Industry Institute Interaction' },
+  },
+  {
+    id: 'admisions',
+    title: 'Admissions',
+    committees: [
+      { id: 'Scholarship', name: 'Scholarship' },
+      { id: 'Student Welfare', name: 'Student Welfare' },
+      { id: 'SC/ST', name: 'SC/ST' },
+      { id: 'Anti-Ragging', name: 'Anti-Ragging' },
+    ]
   },
   {
     id: 'administration',
     title: 'Administration',
     committees: [
-      { id: 'admission-committee', name: 'Admission Committee' },
-      { id: 'minority-cell', name: 'Minority Cell' },
-      { id: 'obc-committee', name: 'OBC Committee' },
-      { id: 'sc-st-committee', name: 'SC / ST Committee' },
-      { id: 'training-placement', name: 'Training & Placement' },
-      { id: 'alumni-cell', name: 'Alumni Cell' },
-      { id: 'infrastructure-maintenance', name: 'Infrastructure & Maintenance cell' },
-      { id: 'faculty-staff-selection', name: 'College Faculty & Staff selection committee' },
-      { id: 'hostel-committee', name: 'Hostel Committee' },
-      { id: 'website-ict-committee', name: 'Website/ICT/Internet Committee' },
-      { id: 'transport-committee', name: 'Transport Committee' },
-      { id: 'press-media', name: 'Press & Media' },
-      { id: 'staff-grievance', name: 'Staff Grievance & Redressal Committee' },
-    ]
-  },
-  {
-    id: 'student-affairs',
-    title: 'Student Affairs',
-    committees: [
-      { id: 'internal-complaint', name: 'Internal Complaint Committee (Gender Sensitization)' },
-      { id: 'eisc', name: 'Entrepreneurship, Innovation and Start-Ups Centers (EISC)' },
-      { id: 'ipr-patents', name: 'IPR & Patents Cell' },
-      { id: 'industry-interaction', name: 'Industry Institution Interaction Committee' },
-      { id: 'women-empowerment', name: 'Women empowerment committee' },
-      { id: 'magazine-committee', name: 'Magazine committee' },
-      { id: 'sports-games', name: 'Sports & Games Committee' },
-      { id: 'anti-ragging', name: 'Anti - Ragging Committee' },
-      { id: 'extra-curricular', name: 'Extra Curricular Activities Committee' },
-    ]
+      { id: 'Hostel Welfare', name: 'Hostel Welfare' },
+      { id: 'Discipline', name: 'Discipline' },
+      { id: 'Staff Selection', name: 'Staff Selection' },
+      { id: 'Governing Body', name: 'Governing Body' },
+      { id: 'Transportation', name: 'Transportation' }
   }
 ];
 

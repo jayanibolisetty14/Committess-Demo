@@ -44,60 +44,961 @@ export const categories = [
 ];
 
 export const committeeDetails = {
-  'students-grievance': {
-    name: 'Students Grievance & Redressal Committee',
+  'Industry  Institute Interaction ': {
+    name: 'Industry Institute Interaction Committee',
     composition: [
       {
         role: 'Chairman',
-        name: 'Dr. A Vijay Kumar',
+        name: 'Dr.Radhika Paturi ',
         designation: 'Principal',
-        phone: '+91*9493425808',
-        email: 'principal@raghuenggcollege.com'
+        phone: '+91*9866342224',
+        email: ''
       },
       {
-        role: 'Coordinator',
-        name: 'Dr. G.V. Siva Prasad',
-        designation: 'Professor - H&S',
-        phone: '+91-9866349200',
-        email: 'sivaprasad.gv@raghuenggcollege.in'
+        role: 'Dean',
+        name: 'Dr. G. sandhya',
+        designation: '',
+        phone: '+91-',
+        email: ''
+      }
+      {
+        role: 'Main Coordinator',
+        name: 'Dr.s.Yallamandaiah',
+        designation: '',
+        phone: '+91-',
+        email: ''
       }
     ],
     facultyMembers: [
       {
-        name: 'Dr. K. Phaninder Vinay',
-        designation: 'Professor - ECE',
-        phone: '+91-9959163196',
-        email: 'phanikvinay@gmail.com'
+        name: 'A.Yugandhar Reddy ',
+        designation: '- CSE',
+        phone: '+91-',
+        email: ''
       },
       {
-        name: 'Mr. R. Srinivasa Rao',
-        designation: 'Associate Professor - CIVIL',
-        phone: '+91-9963166376',
-        email: 'rapsrinu@gmail.com'
+        name: 'M.Anusha',
+        designation: ' - CSM',
+        phone: '+91-',
+        email: ''
       },
       {
-        name: 'Mrs. Shaik Daryabi',
-        designation: 'Associate Professor - EEE',
-        phone: '+91-9966375939',
-        email: 'daryabi.shaik@raghuenggcollege.in'
+        name: 'M.Anusha ',
+        designation: '- CSD',
+        phone: '+91-',
+        email: ''
       },
       {
-        name: 'Dr. R Sivaranjani',
-        designation: 'Professor - CSE',
-        phone: '+91-9642022170',
-        email: 'sivaranjani.reddi@raghuenggcollege.in'
+        name: 'K.Srikanth',
+        designation: '- IT',
+        phone: '+91-',
+        email: ''
       },
       {
-        name: 'Mrs. K.Bhanu Kumari',
-        designation: 'Associate Professor',
-        phone: '+91-9866956792',
-        email: 'bhanukumari.k@raghuenggcollege.in'
+        name: 'N.Laxmi Narayana ',
+        designation: '- EEE',
+        phone: '+91-',
+        email: ''
+      },
+
+      {
+        name: 'Dr.L.Vijaya ',
+        designation: '- MBA',
+        phone: '+91-',
+        email: ''
+      }
+    ],
+    studentMembers: [
+      {
+        name: 'Mr G.Venkata Santosh',
+        designation: 'Student - II Year-CSE',
+        phone: '+91-8790953761',
+        email: 'santosh.05@gmail.com'
       },
       {
-        name: 'Dr. P. Vijaya Kumar',
-        designation: 'Professor - MECH',
-        phone: '+91-8897879299',
-        email: 'hod_mech@raghuenggcollege.in'
+        name: 'B.Hamsika Sri Lakshmi Durga Anusha',
+        designation: 'Student - I-Year-CSE',
+        phone: '+91-8309953431',
+        email: '24981a057t@raghuenggcollege.in'
+      }
+    ]
+  }
+};
+export const committeeDetails = {
+  'Institute Magazine ': {
+    name: 'Institute Magazine Committee',
+    composition: [
+      {
+        role: 'Chairman',
+        name: 'Dr.Radhika Paturi ',
+        designation: 'Principal',
+        phone: '+91*9866342224',
+        email: ''
+      },
+      {
+        role: 'Dean',
+        name: 'Dr.KVS Rama Krishna',
+        designation: 'Professor - H&S',
+        phone: '+91-',
+        email: ''
+      }
+      {
+        role: 'Main Coordinator',
+        name: 'B.Rajashekar',
+        designation: '-BS&H',
+        phone: '+91-',
+        email: ''
+      }
+    ],
+    facultyMembers: [
+      {
+        name: 'Dr. A.Naresh',
+        designation: '- CSE',
+        phone: '+91-',
+        email: ''
+      },
+      {
+        name: 'G.Manidheer Babu',
+        designation: ' - CSM',
+        phone: '+91-',
+        email: ''
+      },
+      {
+        name: 'G.Manidheer Babu ',
+        designation: '- CSD',
+        phone: '+91-',
+        email: ''
+      },
+      {
+  
+        name: 'K.Murali Krishna ',
+        designation: '- ECE',
+        phone: '+91-',
+        email: ''
+      },
+
+      {
+        name: 'Sk.Sharmila ',
+        designation: '- IT',
+        phone: '+91-',
+        email: ''
+      }
+      {
+        name: 'Dr.R.Srikanth ',
+        designation: '- EEE',
+        phone: '+91-',
+        email: ''
+      }
+      {
+        name: 'Dr.M.Naga Lakshmi ',
+        designation: '- MBA',
+        phone: '+91-',
+        email: ''
+      }
+    ],
+    studentMembers: [
+      {
+        name: 'Mr G.Venkata Santosh',
+        designation: 'Student - II Year-CSE',
+        phone: '+91-8790953761',
+        email: 'santosh.05@gmail.com'
+      },
+      {
+        name: 'B.Hamsika Sri Lakshmi Durga Anusha',
+        designation: 'Student - I-Year-CSE',
+        phone: '+91-8309953431',
+        email: '24981a057t@raghuenggcollege.in'
+      }
+    ]
+  }
+};
+export const committeeDetails = {
+  'Website Maintanance ': {
+    name: 'Website Maintanance Committee',
+    composition: [
+      {
+        role: 'Chairman',
+        name: 'Dr.Radhika Paturi ',
+        designation: 'Principal',
+        phone: '+91*9866342224',
+        email: ''
+      },
+      {
+        role: 'Dean',
+        name: 'Dr.KVS Rama Krishna',
+        designation: 'Professor - H&S',
+        phone: '+91-',
+        email: ''
+      }
+      {
+        role: 'Main Coordinator',
+        name: 'K.Chaitanya',
+        designation: '-CSE',
+        phone: '+91-',
+        email: ''
+      }
+    ],
+    facultyMembers: [
+      {
+        name: 'Syed Firdous Fathima',
+        designation: '- CSM',
+        phone: '+91-',
+        email: ''
+      },
+      {
+        name: 'Syed Firdous Fathima',
+        designation: ' - CSD',
+        phone: '+91-',
+        email: ''
+      },
+      {
+        name: 'M.Kranthi Kumar',
+        designation: '- ECE',
+        phone: '+91-',
+        email: ''
+      },
+      {
+        name: 'Sk.Sharmila ',
+        designation: '- IT',
+        phone: '+91-',
+        email: ''
+      },
+
+      {
+        name: 'Dr.R.Srikanth ',
+        designation: '- EEE',
+        phone: '+91-',
+        email: ''
+      }
+      {
+        name: 'B.Kiran Kumar ',
+        designation: '- BS&H',
+        phone: '+91-',
+        email: ''
+      }
+      {
+        name: 'Dr.M.Naga Lakshmi ',
+        designation: '- MBA',
+        phone: '+91-',
+        email: ''
+      }
+    ],
+    studentMembers: [
+      {
+        name: 'Mr G.Venkata Santosh',
+        designation: 'Student - II Year-CSE',
+        phone: '+91-8790953761',
+        email: 'santosh.05@gmail.com'
+      },
+      {
+        name: 'B.Hamsika Sri Lakshmi Durga Anusha',
+        designation: 'Student - I-Year-CSE',
+        phone: '+91-8309953431',
+        email: '24981a057t@raghuenggcollege.in'
+      }
+    ]
+  }
+};
+export const committeeDetails = {
+  'System Administrator ': {
+    name: 'System Administrator Committee',
+    composition: [
+      {
+        role: 'Chairman',
+        name: 'Dr.Radhika Paturi ',
+        designation: 'Principal',
+        phone: '+91*9866342224',
+        email: ''
+      },
+      {
+        role: 'Dean',
+        name: 'Dr.KVS Rama Krishna',
+        designation: 'Professor - H&S',
+        phone: '+91-',
+        email: ''
+      }
+      {
+        role: 'Main Coordinator',
+        name: ' A.Yugandhar Reddy',
+        designation: '-CSE',
+        phone: '+91-',
+        email: ''
+      }
+    ],
+    facultyMembers: [
+      {
+        name: 'G.Manidheer Babu',
+        designation: '- CSM',
+        phone: '+91-',
+        email: ''
+      },
+      {
+        name: 'G.Manidheer Babu',
+        designation: ' - CSD',
+        phone: '+91-',
+        email: ''
+      },
+      
+      {
+        name: 'M.Kranthi Kumar',
+        designation: '- ECE',
+        phone: '+91-',
+        email: ''
+      },
+      {
+        name: 'G.Kusuma Harinath ',
+        designation: '- IT',
+        phone: '+91-',
+        email: ''
+      },
+    
+      {
+        name: 'T.Rajesh ',
+        designation: '- EEE',
+        phone: '+91-',
+        email: ''
+      }
+      {
+        name: 'V.China Annanda Rao ',
+        designation: '- BS&H',
+        phone: '+91-',
+        email: ''
+      }
+       {
+        name: 'M.Sarawati ',
+        designation: '- MBA',
+        phone: '+91-',
+        email: ''
+      }
+    ],
+    studentMembers: [
+      {
+        name: 'Mr G.Venkata Santosh',
+        designation: 'Student - II Year-CSE',
+        phone: '+91-8790953761',
+        email: 'santosh.05@gmail.com'
+      },
+      {
+        name: 'B.Hamsika Sri Lakshmi Durga Anusha',
+        designation: 'Student - I-Year-CSE',
+        phone: '+91-8309953431',
+        email: '24981a057t@raghuenggcollege.in'
+      }
+    ]
+  }
+};
+export const committeeDetails = {
+  'Infrastructure Development': {
+    name: 'Infrastructure Development Committee',
+    composition: [
+      {
+        role: 'Chairman',
+        name: 'Dr.Radhika Paturi ',
+        designation: 'Principal',
+        phone: '+91*9866342224',
+        email: ''
+      },
+      {
+        role: 'Dean',
+        name: 'S.Lakshmi Sirisha',
+        designation: '',
+        phone: '+91-',
+        email: ''
+      }
+      {
+        role: 'Main Coordinator',
+        name: 'Dr.J.Thrisul Kumar',
+        designation: '- ECE',
+        phone: '+91-',
+        email: ''
+      }
+    ],
+    facultyMembers: [
+      {
+        name: 'A.Yugandhar Reddy',
+        designation: '- CSE',
+        phone: '+91-',
+        email: ''
+      },
+      {
+        name: 'A.Chenna Kesava',
+        designation: ' - CSM',
+        phone: '+91-',
+        email: ''
+      },
+      
+      {
+        name: 'A.Chenna Kesava',
+        designation: '- CSD',
+        phone: '+91-',
+        email: ''
+      },
+      {
+        name: 'G.Kusuma Harinath ',
+        designation: '- IT',
+        phone: '+91-',
+        email: ''
+      },
+    
+      {
+        name: 'S.Lakshmi Sirisha ',
+        designation: '- EEE',
+        phone: '+91-',
+        email: ''
+      }
+      {
+        name: 'K.Venkateswarlu ',
+        designation: '- BS&H',
+        phone: '+91-',
+        email: ''
+      }
+       {
+        name: 'Dr.L.Vijaya',
+        designation: '- MBA',
+        phone: '+91-',
+        email: ''
+      }
+    ],
+    studentMembers: [
+      {
+        name: 'Mr G.Venkata Santosh',
+        designation: 'Student - II Year-CSE',
+        phone: '+91-8790953761',
+        email: 'santosh.05@gmail.com'
+      },
+      {
+        name: 'B.Hamsika Sri Lakshmi Durga Anusha',
+        designation: 'Student - I-Year-CSE',
+        phone: '+91-8309953431',
+        email: '24981a057t@raghuenggcollege.in'
+      }
+    ]
+  }
+};
+export const committeeDetails = {
+  'Purchase Committe': {
+    name: 'Purchase Committee',
+    composition: [
+      {
+        role: 'Chairman',
+        name: 'Dr.Radhika Paturi ',
+        designation: 'Principal',
+        phone: '+91*9866342224',
+        email: ''
+      },
+      {
+        role: 'Dean',
+        name: 'S.Lakshmi Sirisha',
+        designation: '',
+        phone: '+91-',
+        email: ''
+      }
+      {
+        role: 'Main Coordinator',
+        name: 'Dr.D.Prasanna',
+        designation: '- BS&H',
+        phone: '+91-',
+        email: ''
+      }
+    ],
+    facultyMembers: [
+      {
+        name: 'Syed Shareena Bhanu',
+        designation: '- CSE',
+        phone: '+91-',
+        email: ''
+      },
+      {
+        name: 'Ch.Naga Lakshmi',
+        designation: ' - CSM',
+        phone: '+91-',
+        email: ''
+      },
+      
+      {
+        name: 'Ch.Naga Lakshmi',
+        designation: '- CSD',
+        phone: '+91-',
+        email: ''
+      },
+      {
+        name: 'E.Bhanu Prasad ',
+        designation: '- ECE',
+        phone: '+91-',
+        email: ''
+      },
+    
+      {
+        name: 'G.Rohini Phanindra Kumari',
+        designation: '- IT',
+        phone: '+91-',
+        email: ''
+      }
+      {
+        name: 'S.Lakshmi Sirisha',
+        designation: '- EEE',
+        phone: '+91-',
+        email: ''
+      }
+       {
+        name: 'Dr.E.Venu Madhavi',
+        designation: '- MBA',
+        phone: '+91-',
+        email: ''
+      }
+    ],
+    studentMembers: [
+      {
+        name: 'Mr G.Venkata Santosh',
+        designation: 'Student - II Year-CSE',
+        phone: '+91-8790953761',
+        email: 'santosh.05@gmail.com'
+      },
+      {
+        name: 'B.Hamsika Sri Lakshmi Durga Anusha',
+        designation: 'Student - I-Year-CSE',
+        phone: '+91-8309953431',
+        email: '24981a057t@raghuenggcollege.in'
+      }
+    ]
+  }
+};
+export const committeeDetails = {
+  'Finance Committe': {
+    name: 'Finance Committee',
+    composition: [
+      {
+        role: 'Chairman',
+        name: 'Dr.Radhika Paturi ',
+        designation: 'Principal',
+        phone: '+91*9866342224',
+        email: ''
+      },
+      {
+        role: 'Dean',
+        name: 'S.Lakshmi Sirisha',
+        designation: '',
+        phone: '+91-',
+        email: ''
+      }
+      {
+        role: 'Main Coordinator',
+        name: 'S.Lakshmi Sirisha',
+        designation: '- EEE',
+        phone: '+91-',
+        email: ''
+      }
+    ],
+    facultyMembers: [
+      {
+        name: 'Y.Swathi',
+        designation: '- CSE',
+        phone: '+91-',
+        email: ''
+      },
+      {
+        name: 'Ch.Naga Lakshmi',
+        designation: ' - CSM',
+        phone: '+91-',
+        email: ''
+      },
+      
+      {
+        name: 'Ch.Naga Lakshmi',
+        designation: '- CSD',
+        phone: '+91-',
+        email: ''
+      },
+      {
+        name: 'M.Venkat Subba Rao ',
+        designation: '- ECE',
+        phone: '+91-',
+        email: ''
+      },
+    
+      {
+        name: 'K.Srikanth',
+        designation: '- IT',
+        phone: '+91-',
+        email: ''
+      }
+      {
+        name: 'J.Venkat Lakshmi',
+        designation: '- BS&H',
+        phone: '+91-',
+        email: ''
+      }
+       {
+        name: 'Dr.E.Venu Madhavi',
+        designation: '- MBA',
+        phone: '+91-',
+        email: ''
+      }
+    ],
+    studentMembers: [
+      {
+        name: 'Mr G.Venkata Santosh',
+        designation: 'Student - II Year-CSE',
+        phone: '+91-8790953761',
+        email: 'santosh.05@gmail.com'
+      },
+      {
+        name: 'B.Hamsika Sri Lakshmi Durga Anusha',
+        designation: 'Student - I-Year-CSE',
+        phone: '+91-8309953431',
+        email: '24981a057t@raghuenggcollege.in'
+      }
+    ]
+  }
+};
+export const committeeDetails = {
+  'Electrical Maintanance': {
+    name: 'Electrical Maintanance Committee',
+    composition: [
+      {
+        role: 'Chairman',
+        name: 'Dr.Radhika Paturi ',
+        designation: 'Principal',
+        phone: '+91*9866342224',
+        email: ''
+      },
+      {
+        role: 'Dean',
+        name: 'S.Lakshmi Sirisha',
+        designation: '',
+        phone: '+91-',
+        email: ''
+      }
+      {
+        role: 'Main Coordinator',
+        name: 'Dr.R.Srikanth',
+        designation: '- EEE',
+        phone: '+91-',
+        email: ''
+      }
+    ],
+    facultyMembers: [
+      {
+        name: 'M.Francis',
+        designation: '- CSE',
+        phone: '+91-',
+        email: ''
+      },
+      {
+        name: 'Ch.Naga Lakshmi',
+        designation: ' - CSM',
+        phone: '+91-',
+        email: ''
+      },
+      
+      {
+        name: 'Ch.Naga Lakshmi',
+        designation: '- CSD',
+        phone: '+91-',
+        email: ''
+      },
+      {
+        name: 'M.Venkat Subba Rao ',
+        designation: '- ECE',
+        phone: '+91-',
+        email: ''
+      },
+    
+      {
+        name: 'K.Srinivas',
+        designation: '- IT',
+        phone: '+91-',
+        email: ''
+      }
+      {
+        name: 'D.Ratna Mani',
+        designation: '- BS&H',
+        phone: '+91-',
+        email: ''
+      }
+       {
+        name: 'P.Rupavathi',
+        designation: '- MBA',
+        phone: '+91-',
+        email: ''
+      }
+    ],
+    studentMembers: [
+      {
+        name: 'Mr G.Venkata Santosh',
+        designation: 'Student - II Year-CSE',
+        phone: '+91-8790953761',
+        email: 'santosh.05@gmail.com'
+      },
+      {
+        name: 'B.Hamsika Sri Lakshmi Durga Anusha',
+        designation: 'Student - I-Year-CSE',
+        phone: '+91-8309953431',
+        email: '24981a057t@raghuenggcollege.in'
+      }
+    ]
+  }
+};
+export const committeeDetails = {
+  'Internal & External Examinations': {
+    name: ' Internal & External Examinations Committee',
+    composition: [
+      {
+        role: 'Chairman',
+        name: 'Dr.Radhika Paturi ',
+        designation: 'Principal',
+        phone: '+91*9866342224',
+        email: ''
+      },
+      {
+        role: 'Dean',
+        name: 'MR.N.Laxmi Narayana',
+        designation: '',
+        phone: '+91-',
+        email: ''
+      }
+      {
+        role: 'Main Coordinator',
+        name: 'Dr.J.J.Anand',
+        designation: '- CSM',
+        phone: '+91-',
+        email: ''
+      }
+        {
+        role: 'Main Coordinator',
+        name: 'Dr.J.J.Anand',
+        designation: '- CSD',
+        phone: '+91-',
+        email: ''
+      }
+    ],
+    facultyMembers: [
+      {
+        name: 'P.Ganga Bhavani',
+        designation: '- CSE',
+        phone: '+91-',
+        email: ''
+      },
+      {
+        name: 'Ch.Naga Lakshmi',
+        designation: ' - CSM',
+        phone: '+91-',
+        email: ''
+      },
+      
+      {
+        name: 'Ch.Naga Lakshmi',
+        designation: '- CSD',
+        phone: '+91-',
+        email: ''
+      },
+      {
+        name: 'P.Ganesh Babu ',
+        designation: '- ECE',
+        phone: '+91-',
+        email: ''
+      },
+    
+      {
+        name: 'Y.Vamsi Krishna Teja',
+        designation: '- IT',
+        phone: '+91-',
+        email: ''
+      }
+      {
+        name: 'T.Rajesh',
+        designation: '- EEE',
+        phone: '+91-',
+        email: ''
+      }
+       {
+        name: 'B.Naga Lakshmi',
+        designation: '- BS&H',
+        phone: '+91-',
+        email: ''
+      }
+      {
+        name: 'Dr.L.Vijaya',
+        designation: '- MBA',
+        phone: '+91-',
+        email: ''
+      }
+    ],
+    studentMembers: [
+      {
+        name: 'Mr G.Venkata Santosh',
+        designation: 'Student - II Year-CSE',
+        phone: '+91-8790953761',
+        email: 'santosh.05@gmail.com'
+      },
+      {
+        name: 'B.Hamsika Sri Lakshmi Durga Anusha',
+        designation: 'Student - I-Year-CSE',
+        phone: '+91-8309953431',
+        email: '24981a057t@raghuenggcollege.in'
+      }
+    ]
+  }
+};
+export const committeeDetails = {
+  'Grevience Redressal': {
+    name: 'Grevience Redressal Committee',
+    composition: [
+      {
+        role: 'Chairman',
+        name: 'Dr.Radhika Paturi ',
+        designation: 'Principal',
+        phone: '+91*9866342224',
+        email: ''
+      },
+      {
+        role: 'Dean',
+        name: 'P.Silpa chaitanya',
+        designation: '',
+        phone: '+91-',
+        email: ''
+      }
+      {
+        role: 'Main Coordinator',
+        name: 'P.Sandhya Krishna',
+        designation: '- IT',
+        phone: '+91-',
+        email: ''
+      }
+    ],
+    facultyMembers: [
+      {
+        name: 'P.Ganga Bhavani',
+        designation: '- CSE',
+        phone: '+91-',
+        email: ''
+      },
+      {
+        name: 'Dr.D.Naga Bhargavi',
+        designation: ' - CSM',
+        phone: '+91-',
+        email: ''
+      },
+      {
+        name: 'Dr.D.Naga Bhargavi',
+        designation: ' - CSD',
+        phone: '+91-',
+        email: ''
+      },
+      
+      {
+        name: 'K.Hemalatha',
+        designation: '- ECE',
+        phone: '+91-',
+        email: ''
+      },
+      {
+        name: 'S.Lakshmi Sirisha ',
+        designation: '- EEE',
+        phone: '+91-',
+        email: ''
+      },
+    
+      {
+        name: 'K.Neelima',
+        designation: '- BS&H',
+        phone: '+91-',
+        email: ''
+      }
+       {
+        name: 'Dr.M.Naga Lakshmi',
+        designation: '- MBA',
+        phone: '+91-',
+        email: ''
+      }
+    ],
+    studentMembers: [
+      {
+        name: 'Mr G.Venkata Santosh',
+        designation: 'Student - II Year-CSE',
+        phone: '+91-8790953761',
+        email: 'santosh.05@gmail.com'
+      },
+      {
+        name: 'B.Hamsika Sri Lakshmi Durga Anusha',
+        designation: 'Student - I-Year-CSE',
+        phone: '+91-8309953431',
+        email: '24981a057t@raghuenggcollege.in'
+      }
+    ]
+  }
+};
+export const committeeDetails = {
+  'ISO': {
+    name: ' ISO Committee',
+    composition: [
+      {
+        role: 'Chairman',
+        name: 'Dr.Radhika Paturi ',
+        designation: 'Principal',
+        phone: '+91*9866342224',
+        email: ''
+      },
+      {
+        role: 'Dean',
+        name: 'P.Silpa chaitanya',
+        designation: '',
+        phone: '+91-',
+        email: ''
+      }
+      {
+        role: 'Main Coordinator',
+        name: 'M.PraSanna Kumar',
+        designation: '- CSM',
+        phone: '+91-',
+        email: ''
+      }
+        {
+        role: 'Main Coordinator',
+        name: 'M.PraSanna Kumar',
+        designation: '- CSD',
+        phone: '+91-',
+        email: ''
+      }
+    ],
+    facultyMembers: [
+      {
+        name: 'M.Vasumathi Devi',
+        designation: '- CSE',
+        phone: '+91-',
+        email: ''
+      },
+      {
+        name: 'K.Murali Krishna',
+        designation: ' - ECE',
+        phone: '+91-',
+        email: ''
+      },
+      
+      {
+        name: 'SK.Sharmila',
+        designation: '- IT',
+        phone: '+91-',
+        email: ''
+      },
+      {
+        name: 'T.Rajesh ',
+        designation: '- EEE',
+        phone: '+91-',
+        email: ''
+      },
+    
+      {
+        name: 'K.Maha Lakshmi',
+        designation: '- BS&H',
+        phone: '+91-',
+        email: ''
+      }
+       {
+        name: 'M.Saraswati',
+        designation: '- MBA',
+        phone: '+91-',
+        email: ''
       }
     ],
     studentMembers: [

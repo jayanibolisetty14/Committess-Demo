@@ -30,14 +30,14 @@ export const categories = [
 ];
 
 export const committeeDetails = {
-  'students-grievance': {
-    name: 'Students Grievance & Redressal Committee',
+  'Academic Planning': {
+    name: 'Academic Planning Committee',
     composition: [
       {
         role: 'Chairman',
-        name: 'Dr. A Vijay Kumar',
+        name: 'Dr.P.Radhika',
         designation: 'Principal',
-        phone: '+91*9493425808',
+        phone: '',
         email: 'principal@raghuenggcollege.com'
       },
       {

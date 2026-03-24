@@ -8,21 +8,6 @@ const Header = () => (
   <header>
     <div className="container">
       <nav className="nav-container">
-        <div className="nav-item">Home <ChevronDown size={14} /></div>
-        <div className="nav-item">Academics <ChevronDown size={14} /></div>
-        <div className="nav-item">NCC</div>
-        <div className="nav-item">NSS</div>
-        <div className="nav-item">Sports</div>
-        <div className="nav-item">Placements <ChevronDown size={14} /></div>
-        <div className="nav-item">Library</div>
-        <div className="nav-item">News</div>
-        <div className="nav-item">Events</div>
-        <div className="nav-item">Amenities <ChevronDown size={14} /></div>
-        <div className="nav-item">Evaluation <ChevronDown size={14} /></div>
-        <div className="nav-item">Student Chapters</div>
-        <div className="nav-item">Student-Clubs</div>
-        <div className="nav-item">News Letters <ChevronDown size={14} /></div>
-        <div className="nav-item">Careers</div>
       </nav>
     </div>
   </header>

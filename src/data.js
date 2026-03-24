@@ -26,9 +26,61 @@ export const categories = [
       { id: 'Staff Selection', name: 'Staff Selection' },
       { id: 'Governing Body', name: 'Governing Body' },
       { id: 'Transportation', name: 'Transportation' }
-  }
+  },
+  {
+    id: 'dean reasearch & development',
+    title: 'Dean Reaserch & Development',
+    committees: [
+      { id: 'Skill Development', name: 'Skill Development' },
+      { id: 'Research', name: 'Research' },
+      { id: 'Enterpreneurship Development', name: 'Enterpreneurship Development' },
+      { id: 'Patents/Startups', name: 'Patents/Startups' },
+      { id: 'Women Empowerment', name: 'Women Empowerment' }
+  },
+  {
+    id: 'dean internal quality assurance cell',
+    title: 'Dean Internal Quality Assurance Cell',
+    committees: [
+      { id: 'AICTE,NIRF,FFC,NBA,NAAC', name: 'AICTE,NIRF,FFC,NBA,NAAC' },
+      { id: 'Academic Audit', name: 'Academic Audit' },
+      { id: 'ISO', name: 'ISO' },
+      { id: 'Grievance Redressal', name: 'Grievance Redressal' },
+      { id: 'Internal Complaints', name: 'Internal Complaints' }
+  },
+   {
+    id: 'Dean Training & Placement',
+    title: 'Dean Training & Placement',
+    committees: [
+      { id: 'Training', name: 'Training' },
+      { id: 'Placement', name: 'Placement' },
+      { id: 'Alumni', name: 'Alumni' },
+  },
+   {
+    id: 'dean planning & infrastructure',
+    title: 'Dean Planning & Infrastructure',
+    committees: [
+      { id: 'Infrastructure Development', name: 'Infrastructure Development' },
+      { id: 'Purchase', name: 'Purchase' },
+      { id: 'Finance', name: 'Finance' },
+      { id: 'Electrical Maintenance', name: 'Electrical Maintenance' }
+  },
+  {
+    id: 'dean student affairs',
+    title: 'Dean Student affairs',
+    committees: [
+      { id: 'NSS/NCC', name: 'NSS/NCC' },
+      { id: 'Games/Sports', name: 'Games/Sports' },
+      { id: 'SAC', name: 'SAC' }
+  },
+  {
+    id: 'dean it services',
+    title: 'Dean IT Services',
+    committees: [
+      { id: 'Institute Magazine', name: 'Institute Magazine' },
+      { id: 'Website Maintenance', name: 'Website Maintenance' },
+      { id: 'System Administrator', name: 'System Administrator' }
+  }  
 ];
-
 export const committeeDetails = {
   'Academic Planning': {
     name: 'Academic Planning Committee',

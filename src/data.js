@@ -89,7 +89,7 @@ export const committeeDetails = {
         role: 'Chairman',
         name: 'Dr.Radhika Paturi ',
         designation: 'Principal',
-        phone: '+91-',
+        phone: '+91-9866342224',
         email: ''
       },
       {
@@ -102,8 +102,12 @@ export const committeeDetails = {
       {
         role: 'Main Coordinator',
         name: 'Dr.s.Yallamandaiah',
+     
         designation: 'Professor - H&S',
         phone: '+91-',
+        designation: '',
+        phone: '',
+
         email: ''
       }
     ],
@@ -131,6 +135,11 @@ export const committeeDetails = {
         designation: '- IT',
         phone: '+91-',
         email: ''
+
+        designation: 'Assistant Professor - IT',
+        phone: '+91-9347489785',
+        email: 'sreekilaru@gmail.com'
+
       },
       {
         name: 'N.Laxmi Narayana ',
@@ -176,9 +185,9 @@ export const committeeDetails = {
       {
         role: 'Dean',
         name: 'Dr.KVS Rama Krishna',
-        designation: 'Professor - H&S',
-        phone: '+91-',
-        email: ''
+        designation: 'Assistant Professor & HOD - H&S',
+        phone: '+91-9963903911',
+        email: 'ksai.mb@gmail.com'
       }
       {
         role: 'Main Coordinator',
@@ -217,9 +226,9 @@ export const committeeDetails = {
 
       {
         name: 'Sk.Sharmila ',
-        designation: '- IT',
-        phone: '+91-',
-        email: ''
+        designation: 'Assistant Professor - IT',
+        phone: '+91-8309419583',
+        email: 'mail2shaiksharmila@gmail.com'
       }
       {
         name: 'Dr.R.Srikanth ',
@@ -264,9 +273,9 @@ export const committeeDetails = {
       {
         role: 'Dean',
         name: 'Dr.KVS Rama Krishna',
-        designation: 'Professor - H&S',
-        phone: '+91-',
-        email: ''
+        designation: 'Assistant Professor & HOD - H&S',
+        phone: '+91-9963903911',
+        email: 'ksai.mb@gmail.com'
       }
       {
         role: 'Main Coordinator',
@@ -297,9 +306,9 @@ export const committeeDetails = {
       },
       {
         name: 'Sk.Sharmila ',
-        designation: '- IT',
-        phone: '+91-',
-        email: ''
+        designation: 'Assistant Professor - IT',
+        phone: '+91-8309419583',
+        email: 'mail2shaiksharmila@gmail.com'
       },
 
       {
@@ -345,15 +354,15 @@ export const committeeDetails = {
         role: 'Chairman',
         name: 'Dr.Radhika Paturi ',
         designation: 'Principal',
-        phone: '+91*9866342224',
+        phone: '+91-9866342224',
         email: ''
       },
       {
         role: 'Dean',
         name: 'Dr.KVS Rama Krishna',
-        designation: 'Professor - H&S',
-        phone: '+91-',
-        email: ''
+        designation: 'Assistant Professor & HOD - H&S',
+        phone: '+91-9963903911',
+        email: 'ksai.mb@gmail.com'
       }
       {
         role: 'Main Coordinator',
@@ -385,9 +394,9 @@ export const committeeDetails = {
       },
       {
         name: 'G.Kusuma Harinath ',
-        designation: '- IT',
-        phone: '+91-',
-        email: ''
+        designation: 'Assistant Professor - IT',
+        phone: '+91-9052526465',
+        email: 'nirulagkhari@gmail.com'
       },
     
       {
@@ -472,9 +481,9 @@ export const committeeDetails = {
       },
       {
         name: 'Y.Vamsi Krishna Teja',
-        designation: '- IT',
-        phone: '+91-',
-        email: ''
+        designation: 'Assistant Professor - IT',
+        phone: '+91-8309705324',
+        email: 'vamsiyakkala@gmail.com'
       },
       {
         name: 'R.Srikanth',
@@ -558,9 +567,9 @@ export const committeeDetails = {
       },
       {
         name: 'Y.Vamsi Krishna Teja',
-        designation: '- IT',
-        phone: '',
-        email: ''
+        designation: 'Assistant Professor - IT',
+        phone: '+91-8309705324',
+        email: 'vamsiyakkala@gmail.com'
       },
       {
         name: 'N.Laxmi Naryana',
@@ -605,7 +614,7 @@ export const committeeDetails = {
         role: 'Chairman',
         name: 'Dr.Radhika Paturi ',
         designation: 'Principal',
-        phone: '+91*9866342224',
+        phone: '+91-9866342224',
         email: ''
       },
       {
@@ -644,9 +653,9 @@ export const committeeDetails = {
       },
       {
         name: 'Dr.V.Pavani',
-        designation: '- IT',
-        phone: '',
-        email: ''
+        designation: 'Assistant Professor - IT',
+        phone: '+91-9346405793',
+        email: 'manojpavani81@gmail.com'
       },
       {
         name: 'Dr.R.Srikanth',
@@ -736,9 +745,9 @@ export const committeeDetails = {
       },
       {
         name: 'Y.Vamsi Krishna Teja',
-        designation: '- IT',
-        phone: '',
-        email: ''
+        designation: 'Assistant Professor - IT',
+        phone: '+91-8309705324',
+        email: 'vamsiyakkala@gmail.com'
       },
       {
         name: 'Ch.Vaisali',
@@ -771,7 +780,7 @@ export const committeeDetails = {
         role: 'Chairman',
         name: 'Dr.Radhika Paturi ',
         designation: 'Principal',
-        phone: '+91*9866342224',
+        phone: '+91-9866342224',
         email: ''
       },
       {
@@ -810,9 +819,9 @@ export const committeeDetails = {
       },
       {
         name: 'R.Srinivas',
-        designation: '- IT',
-        phone: '',
-        email: ''
+        designation: 'Assistant Professor - IT',
+        phone: '+91-8179715157',
+        email: 'srinunaik577@gmail.com'
       },
       {
         name: 'Dr.R.Srikanth',
@@ -863,8 +872,8 @@ export const committeeDetails = {
       {
         role: 'Dean',
         name: 'Dr.V.Lakshman Narayana',
-        designation: ' Professor&HOD - CSE',
-        phone: '+91-9640234674',
+        designation: '- CSE',
+        phone:'+91-9640234674',
         email: 'lakshmanv58@gmail.com'
       }
       {
@@ -896,9 +905,10 @@ export const committeeDetails = {
       },
       {
         name: 'G.Rohini Phanindra Kumari',
-        designation: '- IT',
-        phone: '+91-',
-        email: ''
+        designation: 'Assistant Professor - IT',
+        phone: '+91-8500219323',
+        email: 'ginjupallirohini@gmail.com'
+
       },
       {
         name: 'S.Lakshmi Sirisha',
@@ -982,9 +992,10 @@ export const committeeDetails = {
       },
       {
         name: 'B.Aruna Kumari',
-        designation: '- IT',
-        phone: '+91-',
-        email: ''
+        designation: 'Assistant Professor - IT',
+        phone: '+91-8184933150',
+        email: 'kondaveetiaruna@gmail.com'
+
       },
       {
         name: 'S.Lakshmi Sirisha',
@@ -1074,9 +1085,9 @@ export const committeeDetails = {
       },
       {
         name: 'K.Srikanth',
-        designation: '- IT',
-        phone: '+91-',
-        email: ''
+        designation: 'Assistant Professor - IT',
+        phone: '+91-9347489785',
+        email: 'sreekilaru@gmail.com'
       },
       {
         name: 'N.Laxmi Naryana',
@@ -1155,9 +1166,10 @@ export const committeeDetails = {
       },
       {
         name: 'Dr.V.Pavani',
-        designation: '- IT',
-        phone: '+91-',
-        email: ''
+        designation: 'Assistant Professor - IT',
+        phone: '+91-9346405793',
+        email: 'manojpavani81@gmail.com'
+
       },
       {
         name: 'S.Lakshmi Sirisha',
@@ -1242,9 +1254,9 @@ export const committeeDetails = {
       },
       {
         name: 'G.Lakshmi Durga',
-        designation: '- IT',
-        phone: '',
-        email: ''
+        designation: 'Assistant Professor - IT',
+        phone: '+91-6300298905',
+        email: 'gummalakshmi@gmail.com'
       },
       {
         name: 'S.Lakshmi Sirisha',
@@ -1289,7 +1301,7 @@ export const committeeDetails = {
         role: 'Chairman',
         name: 'Dr.Radhika Paturi ',
         designation: 'Principal',
-        phone: '+91*9866342224',
+        phone: '+91-9866342224',
         email: ''
       },
       {
@@ -1328,9 +1340,9 @@ export const committeeDetails = {
       },
       {
         name: 'G.Kusuma Harinath',
-        designation: '- IT',
-        phone: '',
-        email: ''
+        designation: 'Assistant Professor - IT',
+        phone: '+91-9052526465',
+        email: 'nirulagkhari@gmail.com'
       },
       {
         name: 'T.Rajesh',
@@ -1375,7 +1387,7 @@ export const committeeDetails = {
         role: 'Chairman',
         name: 'Dr.Radhika Paturi ',
         designation: 'Principal',
-        phone: '+91*9866342224',
+        phone: '+91-9866342224',
         email: ''
       },
       {
@@ -1388,9 +1400,9 @@ export const committeeDetails = {
       {
         role: 'Main Coordinator',
         name: 'Dr.V.Pavani',
-        designation: '- IT',
-        phone: '',
-        email: ''
+        designation: 'Assistant Professor - IT',
+        phone: '+91-9346405793',
+        email: 'manojpavani81@gmail.com'
       }
     ],
     facultyMembers: [
@@ -1455,7 +1467,7 @@ export const committeeDetails = {
         role: 'Chairman',
         name: 'Dr.Radhika Paturi ',
         designation: 'Principal',
-        phone: '+91*9866342224',
+        phone: '+91-9866342224',
         email: ''
       },
       {
@@ -1494,9 +1506,9 @@ export const committeeDetails = {
       },
       {
         name: 'P.Sandhya Krishna',
-        designation: '- IT',
-        phone: '',
-        email: ''
+        designation: 'Assistant Professor - IT',
+        phone: '+91-9502128165',
+        email: 'sandhyamcaviit@gmail.com'
       },
       {
         name: 'S.Lakshmi Sirisha',
@@ -1535,7 +1547,7 @@ export const committeeDetails = {
         role: 'Chairman',
         name: 'Dr.Radhika Paturi ',
         designation: 'Principal',
-        phone: '+91*9866342224',
+        phone: '+91-9866342224',
         email: ''
       },
       {
@@ -1589,9 +1601,9 @@ export const committeeDetails = {
    
       {
         name: 'G.Lakshmi Durga',
-        designation: '- IT',
-        phone: '+91-',
-        email: ''
+        designation: 'Assistant Professor - IT',
+        phone: '+91-6300298905',
+        email: 'gummalakshmi@gmail.com'
       }
       {
         name: 'S.Lakshmi Sirisha',
@@ -1630,7 +1642,7 @@ export const committeeDetails = {
         role: 'Chairman',
         name: 'Dr.Radhika Paturi ',
         designation: 'Principal',
-        phone: '+91*9866342224',
+        phone: '+91-9866342224',
         email: ''
       },
       {
@@ -1670,9 +1682,9 @@ export const committeeDetails = {
       },
       {
         name: 'G.Rohini Phanindra Kumari',
-        designation: '- IT',
-        phone: '',
-        email: ''
+        designation: 'Assistant Professor - IT',
+        phone: '+91-8500219323',
+        email: 'ginjupallirohini@gmail.com'
       },
       {
         name: 'S.Lakshmi Sirisha',
@@ -1717,7 +1729,7 @@ export const committeeDetails = {
         role: 'Chairman',
         name: 'Dr.Radhika Paturi ',
         designation: 'Principal',
-        phone: '+91*9866342224',
+        phone: '+91-9866342224',
         email: ''
       },
       {
@@ -1756,9 +1768,9 @@ export const committeeDetails = {
       },
       {
         name: 'B.Aruna Kumari',
-        designation: '- IT',
-        phone: '',
-        email: ''
+        designation: 'Assistant Professor - IT',
+        phone: '+91-8184933150',
+        email: 'kondaveetiaruna@gmail.com'
       },
       {
         name: 'T.Rajesh',
@@ -1803,7 +1815,7 @@ export const committeeDetails = {
         role: 'Chairman',
         name: 'Dr.Radhika Paturi ',
         designation: 'Principal',
-        phone: '+91*9866342224',
+        phone: '+91-9866342224',
         email: ''
       },
       {
@@ -1848,9 +1860,9 @@ export const committeeDetails = {
       },
       {
         name: 'K.Jagadeesh',
-        designation: '- IT',
-        phone: '',
-        email: ''
+        designation: 'Assistant Professor - IT',
+        phone: '+91-9885595587',
+        email: 'jagadeesh.kalava@gmail.com'
       },
       {
         name: 'S.Lakshmi Sirisha',
@@ -1889,7 +1901,7 @@ export const committeeDetails = {
         role: 'Chairman',
         name: 'Dr.Radhika Paturi ',
         designation: 'Principal',
-        phone: '+91*9866342224',
+        phone: '+91-9866342224',
         email: ''
       },
       {
@@ -1902,9 +1914,9 @@ export const committeeDetails = {
       {
         role: 'Main Coordinator',
         name: 'P.Sandhya Krishna',
-        designation: '- IT',
-        phone: '+91-',
-        email: ''
+        designation: 'Assistant Professor - IT',
+        phone: '+91-9502128165',
+        email: 'sandhyamcaviit@gmail.com'
       }
     ],
     facultyMembers: [
@@ -1977,7 +1989,7 @@ export const committeeDetails = {
         role: 'Chairman',
         name: 'Dr.Radhika Paturi ',
         designation: 'Principal',
-        phone: '+91*9866342224',
+        phone: '+91-9866342224',
         email: ''
       },
       {
@@ -2018,9 +2030,9 @@ export const committeeDetails = {
      
       {
         name: 'SK.Sharmila',
-        designation: '- IT',
-        phone: '+91-',
-        email: ''
+        designation: 'Assistant Professor - IT',
+        phone: '+91-8309419583',
+        email: 'mail2shaiksharmila@gmail.com'
       },
       {
         name: 'T.Rajesh ',

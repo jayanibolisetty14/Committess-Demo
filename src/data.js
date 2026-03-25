@@ -134,9 +134,9 @@ export const committeeDetails = {
       },
       {
         name: 'N.Laxmi Narayana ',
-        designation: '- EEE',
-        phone: '',
-        email: ''
+        designation: 'ASST PROF- EEE',
+        phone: '91-9553959485',
+        email: 'nelluri.22@gmail.com'
       },
 
       {
@@ -170,7 +170,7 @@ export const committeeDetails = {
         role: 'Chairman',
         name: 'Dr.Radhika Paturi ',
         designation: 'Principal',
-        phone: '+91*9866342224',
+        phone: '+91-9866342224',
         email: ''
       },
       {
@@ -223,9 +223,9 @@ export const committeeDetails = {
       }
       {
         name: 'Dr.R.Srikanth ',
-        designation: '- EEE',
-        phone: '',
-        email: ''
+        designation: 'ASSOC PROF- EEE',
+        phone: '91-9700445084',
+        email: 'ravipatister@gmail.com'
       }
       {
         name: 'Dr.M.Naga Lakshmi ',
@@ -258,7 +258,7 @@ export const committeeDetails = {
         role: 'Chairman',
         name: 'Dr.Radhika Paturi ',
         designation: 'Principal',
-        phone: '+91*9866342224',
+        phone: '+91-9866342224',
         email: ''
       },
       {
@@ -304,15 +304,15 @@ export const committeeDetails = {
 
       {
         name: 'Dr.R.Srikanth ',
-        designation: '- EEE',
-        phone: '+91-',
-        email: ''
+        designation: 'ASSOC PROF- EEE',
+        phone: '+91-9700445084',
+        email: 'ravipatister@gmail.com'
       }
       {
         name: 'B.Kiran Kumar ',
         designation: '- BS&H',
-        phone: '+91-',
-        email: ''
+        phone: '+91-8096565120',
+        email: 'bandikirankumar1807@gmail.com'
       }
       {
         name: 'Dr.M.Naga Lakshmi ',
@@ -345,7 +345,7 @@ export const committeeDetails = {
         role: 'Chairman',
         name: 'Dr.Radhika Paturi ',
         designation: 'Principal',
-        phone: '+91*9866342224',
+        phone: '+91-9866342224',
         email: ''
       },
       {
@@ -392,15 +392,15 @@ export const committeeDetails = {
     
       {
         name: 'T.Rajesh ',
-        designation: '- EEE',
-        phone: '+91-',
-        email: ''
+        designation: 'ASST PROF- EEE',
+        phone: '+91-7207398722',
+        email: 'thangellaraja232@gmail.com'
       }
       {
         name: 'V.China Annanda Rao ',
         designation: '- BS&H',
-        phone: '+91-',
-        email: ''
+        phone: '+91-9705828682',
+        email: 'anandphysics1984@gmail.com'
       }
        {
         name: 'M.Sarawati ',
@@ -433,7 +433,7 @@ export const committeeDetails = {
         role: 'Chairman',
         name: 'Dr.Radhika Paturi ',
         designation: 'Principal',
-        phone: '+91*9866342224',
+        phone: '+91-9866342224',
         email: ''
       },
       {
@@ -479,14 +479,14 @@ export const committeeDetails = {
       {
         name: 'R.Srikanth',
         designation: '- EEE',
-        phone: '',
-        email: ''
+        phone: '+91-9700445084',
+        email: 'ravipatister@gmail.com'
       },
      {
         name: 'A.Srinivasa Rao',
         designation: '- BS&H',
-        phone: '',
-        email: ''
+        phone: '+91-9441026791',
+        email: 'aresrinivasrao90@gmail.com'
       },
       {
         name: 'P.Rupavathi',
@@ -519,7 +519,7 @@ export const committeeDetails = {
         role: 'Chairman',
         name: 'Dr.Radhika Paturi ',
         designation: 'Principal',
-        phone: '+91*9866342224',
+        phone: '+91-9866342224',
         email: ''
       },
       {
@@ -565,14 +565,14 @@ export const committeeDetails = {
       {
         name: 'N.Laxmi Naryana',
         designation: '- EEE',
-        phone: '',
-        email: ''
+        phone: '+91-9553959485',
+        email: 'nelluri.22@gmail.com'
       },
      {
         name: 'T.Yamini',
         designation: '- BS&H',
-        phone: '',
-        email: ''
+        phone: '+91-7680996240',
+        email: 'yamini.t319@gmail.com'
       },
       {
         name: 'M.Sriram',
@@ -605,7 +605,7 @@ export const committeeDetails = {
         role: 'Chairman',
         name: 'Dr.Radhika Paturi ',
         designation: 'Principal',
-        phone: '+91*9866342224',
+        phone: '+91-9866342224',
         email: ''
       },
       {
@@ -650,15 +650,15 @@ export const committeeDetails = {
       },
       {
         name: 'Dr.R.Srikanth',
-        designation: '- EEE',
-        phone: '',
-        email: ''
+        designation: 'ASSOC PROF- EEE',
+        phone: '+91-9700445084',
+        email: 'ravipatister@gmail.com'
       },
      {
         name: 'Dr.P.Sneha Latha',
         designation: '- BS&H',
-        phone: '',
-        email: ''
+        phone: '+91-9959440700',
+        email: 'vanukuru.sneha@gmail.com'
       },
       {
         name: 'Dr.L.Vijaya',
@@ -691,7 +691,7 @@ export const committeeDetails = {
         role: 'Chairman',
         name: 'Dr.Radhika Paturi ',
         designation: 'Principal',
-        phone: '+91*9866342224',
+        phone: '+91-9866342224',
         email: ''
       },
       {
@@ -742,9 +742,9 @@ export const committeeDetails = {
       },
       {
         name: 'Ch.Vaisali',
-        designation: '- EEE',
-        phone: '',
-        email: ''
+        designation: 'ASST PROF- EEE',
+        phone: '+91-78937097645',
+        email: 'vyshunani.pallapu@gmail.com'
       }
     ],
     studentMembers: [
@@ -771,7 +771,7 @@ export const committeeDetails = {
         role: 'Chairman',
         name: 'Dr.Radhika Paturi ',
         designation: 'Principal',
-        phone: '+91*9866342224',
+        phone: '+91-9866342224',
         email: ''
       },
       {
@@ -816,15 +816,15 @@ export const committeeDetails = {
       },
       {
         name: 'Dr.R.Srikanth',
-        designation: '- EEE',
-        phone: '',
-        email: ''
+        designation: 'ASSOC PROF- EEE',
+        phone: '+91-9700445084',
+        email: 'ravipatister@gmail.com'
       },
      {
         name: 'Dr.P.Sneha Latha',
         designation: '- BS&H',
-        phone: '',
-        email: ''
+        phone: '+91-9959440700',
+        email: 'vanukuru.sneha@gmail.com'
       },
       {
         name: 'Dr.L.Vijaya',
@@ -857,7 +857,7 @@ export const committeeDetails = {
         role: 'Chairman',
         name: 'Dr.Radhika Paturi ',
         designation: 'Principal',
-        phone: '+91*9866342224',
+        phone: '+91-9866342224',
         email: ''
       },
       {
@@ -902,15 +902,15 @@ export const committeeDetails = {
       },
       {
         name: 'S.Lakshmi Sirisha',
-        designation: '- EEE',
-        phone: '',
-        email: ''
+        designation: 'ASST PROF- EEE',
+        phone: '+91-9951687572',
+        email: 'slsirisha.s@gmail.com'
       },
      {
         name: 'B.Lavanya',
         designation: '- BS&H',
-        phone: '',
-        email: ''
+        phone: '+91-9951815410',
+        email: 'lavanyabandaru85@gmail.com'
       },
       {
         name: 'Dr.E.Venu Madhavi',
@@ -943,7 +943,7 @@ export const committeeDetails = {
         role: 'Chairman',
         name: 'Dr.Radhika Paturi ',
         designation: 'Principal',
-        phone: '+91*9866342224',
+        phone: '+91-9866342224',
         email: ''
       },
       {
@@ -988,15 +988,15 @@ export const committeeDetails = {
       },
       {
         name: 'S.Lakshmi Sirisha',
-        designation: '- EEE',
-        phone: '',
-        email: ''
+        designation: 'ASST PROF- EEE',
+        phone: '+91-9951687572',
+        email: 'slsirisha.s@gmail.com'
       },
      {
         name: 'S.Ratna Kumari',
         designation: '- BS&H',
-        phone: '',
-        email: ''
+        phone: '+91-9440791062',
+        email: 'radhasomi0801@gmail.com'
       },
       {
         name: 'P.Rupavathi',
@@ -1029,7 +1029,7 @@ export const committeeDetails = {
         role: 'Chairman',
         name: 'Dr.Radhika Paturi ',
         designation: 'Principal',
-        phone: '+91*9866342224',
+        phone: '+91-9866342224',
         email: ''
       },
       {
@@ -1080,9 +1080,9 @@ export const committeeDetails = {
       },
       {
         name: 'N.Laxmi Naryana',
-        designation: '- EEE',
-        phone: '',
-        email: ''
+        designation: 'ASST PROF- EEE',
+        phone: '+91-9553959485',
+        email: 'nelluri.22@gmail.com'
       },
       {
         name: 'Dr.E.Venu Madhavi',
@@ -1115,7 +1115,7 @@ export const committeeDetails = {
         role: 'Chairman',
         name: 'Dr.Radhika Paturi ',
         designation: 'Principal',
-        phone: '+91*9866342224',
+        phone: '+91-9866342224',
         email: ''
       },
       {
@@ -1161,15 +1161,15 @@ export const committeeDetails = {
       },
       {
         name: 'S.Lakshmi Sirisha',
-        designation: '- EEE',
-        phone: '',
-        email: ''
+        designation: 'ASST PROF- EEE',
+        phone: '+91-9951687572',
+        email: 'slsirisha.s@gmail.com'
       },
       {
         name: 'B.Naga Lakshmi',
         designation: '- BS&H',
-        phone: '',
-        email: ''
+        phone: '+91-9440374283',
+        email: 'evurimokshita@gmail.com'
       },
       {
         name: 'Dr.E.Venu Madhavi',
@@ -1202,7 +1202,7 @@ export const committeeDetails = {
         role: 'Chairman',
         name: 'Dr.Radhika Paturi ',
         designation: 'Principal',
-        phone: '+91*9866342224',
+        phone: '+91-9866342224',
         email: ''
       },
       {
@@ -1248,15 +1248,15 @@ export const committeeDetails = {
       },
       {
         name: 'S.Lakshmi Sirisha',
-        designation: '- EEE',
-        phone: '',
-        email: ''
+        designation: 'ASST PROF- EEE',
+        phone: '+91-9951687572',
+        email: 'slsirisha.s@gmail.com'
       },
       {
         name: 'K.Maha Lakshmi',
         designation: '- BS&H',
-        phone: '',
-        email: ''
+        phone: '+91-9492662284',
+        email: 'mhlakshmi@gmail.com'
       },
       {
         name: 'Dr.E.Venu Madhavi',
@@ -1289,7 +1289,7 @@ export const committeeDetails = {
         role: 'Chairman',
         name: 'Dr.Radhika Paturi ',
         designation: 'Principal',
-        phone: '+91*9866342224',
+        phone: '+91-9866342224',
         email: ''
       },
       {
@@ -1334,15 +1334,15 @@ export const committeeDetails = {
       },
       {
         name: 'T.Rajesh',
-        designation: '- EEE',
-        phone: '',
-        email: ''
+        designation: 'ASST PROF- EEE',
+        phone: '+91-720398722',
+        email: 'thangellaraja232@gmail.com'
       },
       {
         name: 'B.Rajashekar',
         designation: '- BS&H',
-        phone: '',
-        email: ''
+        phone: '+91-9951055089',
+        email: 'prajasekar99@gmail.com'
       },
       {
         name: 'P.Rupavathi',
@@ -1375,7 +1375,7 @@ export const committeeDetails = {
         role: 'Chairman',
         name: 'Dr.Radhika Paturi ',
         designation: 'Principal',
-        phone: '+91*9866342224',
+        phone: '+91-9866342224',
         email: ''
       },
       {
@@ -1420,9 +1420,9 @@ export const committeeDetails = {
       },
       {
         name: 'S.Lakshmi Sirisha',
-        designation: '- EEE',
-        phone: '',
-        email: ''
+        designation: 'ASST PROF- EEE',
+        phone: '+91-9951687572',
+        email: 'slsirisha.s@gmail.com'
       },
       {
         name: 'M.Sriram',
@@ -1455,7 +1455,7 @@ export const committeeDetails = {
         role: 'Chairman',
         name: 'Dr.Radhika Paturi ',
         designation: 'Principal',
-        phone: '+91*9866342224',
+        phone: '+91-9866342224',
         email: ''
       },
       {
@@ -1500,9 +1500,9 @@ export const committeeDetails = {
       },
       {
         name: 'S.Lakshmi Sirisha',
-        designation: '- EEE',
-        phone: '',
-        email: ''
+        designation: 'ASST PROF- EEE',
+        phone: '+91-9951687572',
+        email: 'slsirisha.s@gmail.com'
       },
       {
         name: 'M.Sriram',
@@ -1535,7 +1535,7 @@ export const committeeDetails = {
         role: 'Chairman',
         name: 'Dr.Radhika Paturi ',
         designation: 'Principal',
-        phone: '+91*9866342224',
+        phone: '+91-9866342224',
         email: ''
       },
       {
@@ -1595,9 +1595,9 @@ export const committeeDetails = {
       }
       {
         name: 'S.Lakshmi Sirisha',
-        designation: '- EEE',
-        phone: '+91-',
-        email: ''
+        designation: 'ASST PROF- EEE',
+        phone: '+91-9951687572',
+        email: 'slsirisha.s@gmail.com'
       }
       {
         name: 'Dr.L.Vijaya',
@@ -1630,7 +1630,7 @@ export const committeeDetails = {
         role: 'Chairman',
         name: 'Dr.Radhika Paturi ',
         designation: 'Principal',
-        phone: '+91*9866342224',
+        phone: '+91-9866342224',
         email: ''
       },
       {
@@ -1676,15 +1676,15 @@ export const committeeDetails = {
       },
       {
         name: 'S.Lakshmi Sirisha',
-        designation: '- EEE',
-        phone: '',
-        email: ''
+        designation: 'ASST PROF- EEE',
+        phone: '+91-9951687572',
+        email: 'slsiriha.s@gmail.com'
       },
       {
         name: 'Dr.D.Prasanna',
         designation: '- BS&H',
-        phone: '',
-        email: ''
+        phone: '+91-9908213405',
+        email: 'tynp11@gmail.com'
       },
       {
         name: 'Dr.E.Venu Madhavi',
@@ -1717,7 +1717,7 @@ export const committeeDetails = {
         role: 'Chairman',
         name: 'Dr.Radhika Paturi ',
         designation: 'Principal',
-        phone: '+91*9866342224',
+        phone: '+91-9866342224',
         email: ''
       },
       {
@@ -1762,15 +1762,15 @@ export const committeeDetails = {
       },
       {
         name: 'T.Rajesh',
-        designation: '- EEE',
-        phone: '',
-        email: ''
+        designation: 'ASST PROF- EEE',
+        phone: '+91-7207398722',
+        email: 'thangellaraja232@gmail.com'
       },
       {
         name: 'Dr.G.Sailaja',
         designation: '- BS&H',
-        phone: '',
-        email: ''
+        phone: '+91-9676355370',
+        email: 'sailaja.gannamaneni@gmail.com'
       },
       {
         name: 'M.Saraswathi',
@@ -1803,7 +1803,7 @@ export const committeeDetails = {
         role: 'Chairman',
         name: 'Dr.Radhika Paturi ',
         designation: 'Principal',
-        phone: '+91*9866342224',
+        phone: '+91-9866342224',
         email: ''
       },
       {
@@ -1817,8 +1817,8 @@ export const committeeDetails = {
         role: 'Main Coordinator',
         name: 'Dr.G.Sailaja',
         designation: '- BS&H',
-        phone: '',
-        email: ''
+        phone: '+91-9676355370',
+        email: 'sailaja.gannamaneni@gmail.com'
       }
     ],
     facultyMembers: [
@@ -1854,9 +1854,9 @@ export const committeeDetails = {
       },
       {
         name: 'S.Lakshmi Sirisha',
-        designation: '- EEE',
-        phone: '',
-        email: ''
+        designation: 'ASST PROF- EEE',
+        phone: '+91-9951687572',
+        email: 'slsirisha.s@gmail.com'
       },
       {
         name: 'Dr.M.Naga Lakshmi',
@@ -1935,16 +1935,16 @@ export const committeeDetails = {
       },
       {
         name: 'S.Lakshmi Sirisha ',
-        designation: '- EEE',
-        phone: '+91-',
-        email: ''
+        designation: 'ASST PROF- EEE',
+        phone: '+91-9951687572',
+        email: 'slsirisha.s@gmail.com'
       },
    
       {
         name: 'K.Neelima',
         designation: '- BS&H',
-        phone: '+91-',
-        email: ''
+        phone: '+91-9949321466',
+        email: 'neelima.pantangi@gmail.com'
       }
        {
         name: 'Dr.M.Naga Lakshmi',
@@ -1977,7 +1977,7 @@ export const committeeDetails = {
         role: 'Chairman',
         name: 'Dr.Radhika Paturi ',
         designation: 'Principal',
-        phone: '+91*9866342224',
+        phone: '+91-9866342224',
         email: ''
       },
       {
@@ -2024,16 +2024,16 @@ export const committeeDetails = {
       },
       {
         name: 'T.Rajesh ',
-        designation: '- EEE',
-        phone: '+91-',
-        email: ''
+        designation: 'ASST PROF- EEE',
+        phone: '+91-7207398722',
+        email: 'thangellaraja232@gmail.com'
       },
    
       {
         name: 'K.Maha Lakshmi',
         designation: '- BS&H',
-        phone: '+91-',
-        email: ''
+        phone: '+91-9492662284',
+        email: 'mhlakshmi@gmail.com'
       }
        {
         name: 'M.Saraswati',
@@ -2058,28 +2058,3 @@ export const committeeDetails = {
     ]
   }
 };
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

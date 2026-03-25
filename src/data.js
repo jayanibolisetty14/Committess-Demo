@@ -102,12 +102,10 @@ export const committeeDetails = {
       {
         role: 'Main Coordinator',
         name: 'Dr.s.Yallamandaiah',
-     
         designation: 'Professor - H&S',
         phone: '+91-',
         designation: '',
         phone: '',
-
         email: ''
       }
     ],
@@ -142,7 +140,6 @@ export const committeeDetails = {
         phone: '91-9553959485',
         email: 'nelluri.22@gmail.com'
       },
-
       {
         name: 'Dr.L.Vijaya ',
         designation: '- MBA',
@@ -174,8 +171,8 @@ export const committeeDetails = {
         role: 'Main Coordinator',
         name: 'B.Rajashekar',
         designation: '-BS&H',
-        phone: '+91-',
-        email: ''
+        phone: '+91-9951055081',
+        email: 'prajasekar99@gmail.com'
       }
     ],
     facultyMembers: [
@@ -351,7 +348,6 @@ export const committeeDetails = {
         phone: '+91-9052526465',
         email: 'nirulagkhari@gmail.com'
       },
-    
       {
         name: 'T.Rajesh ',
         designation: 'ASST PROF- EEE',
@@ -426,7 +422,7 @@ export const committeeDetails = {
       },
       {
         name: 'R.Srikanth',
-        designation: '- EEE',
+        designation: 'Associate professor- EEE',
         phone: '+91-9700445084',
         email: 'ravipatister@gmail.com'
       },
@@ -570,7 +566,7 @@ export const committeeDetails = {
       },
       {
         name: 'Dr.R.Srikanth',
-        designation: 'ASSOC PROF- EEE',
+        designation: 'Associate PROF- EEE',
         phone: '+91-9700445084',
         email: 'ravipatister@gmail.com'
       },
@@ -648,7 +644,7 @@ export const committeeDetails = {
       },
       {
         name: 'Ch.Vaisali',
-        designation: 'ASST PROF- EEE',
+        designation: 'Assistant Professor'- 'EEE',
         phone: '+91-78937097645',
         email: 'vyshunani.pallapu@gmail.com'
       }
@@ -708,7 +704,7 @@ export const committeeDetails = {
       },
       {
         name: 'Dr.R.Srikanth',
-        designation: 'ASSOC PROF- EEE',
+        designation: 'Associate professor- EEE',
         phone: '+91-9700445084',
         email: 'ravipatister@gmail.com'
       },
@@ -781,7 +777,7 @@ export const committeeDetails = {
       },
       {
         name: 'S.Lakshmi Sirisha',
-        designation: 'ASST PROF- EEE',
+        designation: 'Assistant professor- EEE',
         phone: '+91-9951687572',
         email: 'slsirisha.s@gmail.com'
       },
@@ -854,7 +850,7 @@ export const committeeDetails = {
       },
       {
         name: 'S.Lakshmi Sirisha',
-        designation: 'ASST PROF- EEE',
+        designation: 'Assistant professor- EEE',
         phone: '+91-9951687572',
         email: 'slsirisha.s@gmail.com'
       },
@@ -895,8 +891,8 @@ export const committeeDetails = {
         role: 'Main Coordinator',
         name: 'A.Srinivasa Rao',
         designation: '- BS&H',
-        phone: '+91-',
-        email: ''
+        phone: '+91-9441026791',
+        email: 'aresrinivasrao90@gmail.com'
       }
     ],
     facultyMembers: [
@@ -932,7 +928,7 @@ export const committeeDetails = {
       },
       {
         name: 'N.Laxmi Naryana',
-        designation: 'ASST PROF- EEE',
+        designation: 'Assistant professor- EEE',
         phone: '+91-9553959485',
         email: 'nelluri.22@gmail.com'
       },
@@ -1000,7 +996,7 @@ export const committeeDetails = {
       },
       {
         name: 'S.Lakshmi Sirisha',
-        designation: 'ASST PROF- EEE',
+        designation: 'Assistant professor- EEE',
         phone: '+91-9951687572',
         email: 'slsirisha.s@gmail.com'
       },
@@ -1073,7 +1069,7 @@ export const committeeDetails = {
       },
       {
         name: 'S.Lakshmi Sirisha',
-        designation: 'ASST PROF- EEE',
+        designation: 'Assistant professor- EEE',
         phone: '+91-9951687572',
         email: 'slsirisha.s@gmail.com'
       },
@@ -1145,7 +1141,7 @@ export const committeeDetails = {
       },
       {
         name: 'T.Rajesh',
-        designation: 'ASST PROF- EEE',
+        designation: 'Assistant professor- EEE',
         phone: '+91-720398722',
         email: 'thangellaraja232@gmail.com'
       },
@@ -1217,7 +1213,7 @@ export const committeeDetails = {
       },
       {
         name: 'S.Lakshmi Sirisha',
-        designation: 'ASST PROF- EEE',
+        designation: 'Assistant professor- EEE',
         phone: '+91-9951687572',
         email: 'slsirisha.s@gmail.com'
       },
@@ -1283,7 +1279,7 @@ export const committeeDetails = {
       },
       {
         name: 'S.Lakshmi Sirisha',
-        designation: 'ASST PROF- EEE',
+        designation: 'Assistant professor- EEE',
         phone: '+91-9951687572',
         email: 'slsirisha.s@gmail.com'
       },
@@ -1364,7 +1360,7 @@ export const committeeDetails = {
       }
       {
         name: 'S.Lakshmi Sirisha',
-        designation: 'ASST PROF- EEE',
+        designation: 'Assistant professor- EEE',
         phone: '+91-9951687572',
         email: 'slsirisha.s@gmail.com'
       }
@@ -1431,7 +1427,7 @@ export const committeeDetails = {
       },
       {
         name: 'S.Lakshmi Sirisha',
-        designation: 'ASST PROF- EEE',
+        designation: 'Assistant professor- EEE',
         phone: '+91-9951687572',
         email: 'slsiriha.s@gmail.com'
       },
@@ -1503,7 +1499,7 @@ export const committeeDetails = {
       },
       {
         name: 'T.Rajesh',
-        designation: 'ASST PROF- EEE',
+        designation: 'Assistant professor- EEE',
         phone: '+91-7207398722',
         email: 'thangellaraja232@gmail.com'
       },
@@ -1581,7 +1577,7 @@ export const committeeDetails = {
       },
       {
         name: 'S.Lakshmi Sirisha',
-        designation: 'ASST PROF- EEE',
+        designation: 'Assistant professor- EEE',
         phone: '+91-9951687572',
         email: 'slsirisha.s@gmail.com'
       },
@@ -1648,7 +1644,7 @@ export const committeeDetails = {
       },
       {
         name: 'S.Lakshmi Sirisha ',
-        designation: 'ASST PROF- EEE',
+        designation: 'Assistant professor- EEE',
         phone: '+91-9951687572',
         email: 'slsirisha.s@gmail.com'
       },
@@ -1723,7 +1719,7 @@ export const committeeDetails = {
       },
       {
         name: 'T.Rajesh ',
-        designation: 'ASST PROF- EEE',
+        designation: 'Assistant professor- EEE',
         phone: '+91-7207398722',
         email: 'thangellaraja232@gmail.com'
       },
@@ -1798,9 +1794,9 @@ export const committeeDetails = {
     
       {
         name: 'S.Lakshmi Sirisha ',
-        designation: '- EEE',
-        phone: '+91-',
-        email: ''
+        designation: 'Assistant professor- EEE',
+        phone: '+91-9951687572',
+        email: 'slsirisha.s@gmail.com'
       }
       
     ],
@@ -1854,22 +1850,22 @@ export const committeeDetails = {
       },
       {
         name: 'Ch.Vaisali ',
-        designation: '- EEE',
-        phone: '+91-',
-        email: ''
+        designation: 'Assistant professor- EEE',
+        phone: '+91-7893797645',
+        email: 'vyshunani.pallapu@gmail.com'
       },
     
       {
         name: 'T.Yamini ',
         designation: '- BS&H',
-        phone: '+91-',
-        email: ''
+        phone: '+91-7680996240',
+        email: 'yamini.t319@gmail.com'
       }
       {
         name: 'V.China Annanda Rao ',
         designation: '- BS&H',
-        phone: '+91-',
-        email: ''
+        phone: '+91-905828682',
+        email: 'anandphysics1984@gmail.com'
       }
        {
         name: 'Dr.L.Vijaya ',
@@ -1895,8 +1891,8 @@ export const committeeDetails = {
         role: 'Dean',
         name: 'Dr.T.V. N.Prasanna',
         designation: 'Professor - H&S',
-        phone: '+91-',
-        email: ''
+        phone: '+91-9908213405',
+        email: 'tynp11@gmail.com'
       }
       {
         role: 'Main Coordinator',
@@ -1928,16 +1924,16 @@ export const committeeDetails = {
       },
       {
         name: 'S.Lakshmi Sirisha ',
-        designation: '- EEE',
-        phone: '+91-',
-        email: ''
+        designation: 'Assistant professor- EEE',
+        phone: '+91-995168572',
+        email: 'slsirisha.s@gmail.com'
       },
     
       {
         name: 'V.China Annanda Rao ',
         designation: '- BS&H',
-        phone: '+91-',
-        email: ''
+        phone: '+91-905828682',
+        email: 'anandphysics1984@gmail.com'
       }
       
        {
@@ -1971,8 +1967,8 @@ export const committeeDetails = {
         role: 'Main Coordinator',
         name: ' S.Ratna Kumari',
         designation: 'BS&H',
-        phone: '',
-        email: ''
+        phone: '+919440791062',
+        email: 'radhasomi0801@gmail.com'
       }
     ],
     facultyMembers: [
@@ -2004,9 +2000,9 @@ export const committeeDetails = {
     
       {
         name: 'Ch.Vaisali ',
-        designation: 'EEE',
-        phone: '+91-',
-        email: ''
+        designation: 'Assistant professor-EEE',
+        phone: '+91-7893797645',
+        email: 'vyshunani.pallapu@gmail.com'
       }
       
        {
@@ -2040,8 +2036,8 @@ export const committeeDetails = {
         role: 'Main Coordinator',
         name: ' Dr.H.Bhavani Naga Prasanna',
         designation: 'BS&H',
-        phone: '',
-        email: ''
+        phone: '+91-9704467473',
+        email: 'bhavaninps@gmail.com'
       }
     ],
     facultyMembers: [
@@ -2073,9 +2069,9 @@ export const committeeDetails = {
     
       {
         name: 'Ch.Vaisali ',
-        designation: 'EEE',
-        phone: '+91-',
-        email: ''
+        designation: 'Assistant professor-EEE',
+        phone: '+91-7893797645',
+        email: 'vyshunani.pallapu@gmail.com'
       }
       
        {
@@ -2135,16 +2131,16 @@ export const committeeDetails = {
       },
       {
         name: 'T.Rajesh',
-        designation: 'EEE',
-        phone: '',
-        email: ''
+        designation: 'Assistant professor-EEE',
+        phone: '+91-7207398722',
+        email: 'thangellaraja232@gmail.com'
       },
     
       {
         name: 'B.Yedukondal Rao ',
         designation: 'BS&H',
-        phone: '+91-',
-        email: ''
+        phone: '+91-6304790224',
+        email: 'yedukondalarao@gmail.com'
       }
       
        {
@@ -2204,16 +2200,16 @@ export const committeeDetails = {
       },
       {
         name: 'S.Lakshmi Sirisha',
-        designation: 'EEE',
-        phone: '',
-        email: ''
+        designation: 'Assistant professor-EEE',
+        phone: '+91-9951687572',
+        email: 'slsirisha.s@gmail.com'
       },
     
       {
         name: 'B.Lavanya ',
         designation: 'BS&H',
-        phone: '+91-',
-        email: ''
+        phone: '+91-9959815410',
+        email: 'lavanybandaru85@gmail.com'
       }
       
        {
@@ -2280,15 +2276,15 @@ export const committeeDetails = {
    
       {
         name: 'S.Lakshmi Sirisha ',
-        designation: '- EEE',
-        phone: '+91-',
-        email: ''
+        designation: 'Assistant professor- EEE',
+        phone: '+91-9951687572',
+        email: 'slsirisha.s@gmail.com'
       }
       {
         name: 'K.Venkateswarlu ',
         designation: '- BS&H',
-        phone: '+91-',
-        email: ''
+        phone: '+91-9676706793',
+        email: 'ronivenkat14@gmail.com'
       }
        {
         name: 'Dr.L.Vijaya',
@@ -2335,8 +2331,8 @@ export const committeeDetails = {
         role: 'Main Coordinator',
         name: 'Dr.D.Prasanna',
         designation: '- BS&H',
-        phone: '+91-',
-        email: ''
+        phone: '+91-9908213405',
+        email: 'tynp11@gmail.com'
       }
     ],
     facultyMembers: [
@@ -2374,9 +2370,9 @@ export const committeeDetails = {
       }
       {
         name: 'S.Lakshmi Sirisha',
-        designation: '- EEE',
-        phone: '+91-',
-        email: ''
+        designation: 'Assistant professor- EEE',
+        phone: '+91-9951687572',
+        email: 'slsirisha.s@gmail.com'
       }
        {
         name: 'Dr.E.Venu Madhavi',
@@ -2510,9 +2506,9 @@ export const committeeDetails = {
       {
         role: 'Main Coordinator',
         name: 'Dr.R.Srikanth',
-        designation: '- EEE',
-        phone: '+91-',
-        email: ''
+        designation: 'Associate professor- EEE',
+        phone: '+91-9700445084',
+        email: 'ravipatister@gmail.com'
       }
     ],
     facultyMembers: [
@@ -2551,8 +2547,8 @@ export const committeeDetails = {
       {
         name: 'D.Ratna Mani',
         designation: '- BS&H',
-        phone: '+91-',
-        email: ''
+        phone: '+91-8019069042',
+        email: 'd.ratnamani7@gmail.com'
       }
        {
         name: 'P.Rupavathi',
@@ -2645,15 +2641,21 @@ export const committeeDetails = {
       }
       {
         name: 'T.Rajesh',
-        designation: '- EEE',
-        phone: '+91-',
-        email: ''
+        designation: 'Assistant professor- EEE',
+        phone: '+91-7207398722',
+        email: 'thangellaraja232@gmail.com
+        
+
+        '
       }
        {
         name: 'B.Naga Lakshmi',
         designation: '- BS&H',
-        phone: '+91-',
-        email: ''
+        phone: '+91-9398606604',
+        email: 'nagalakshmiborra1@gmail.com
+         
+         
+        '
       }
       {
         name: 'Dr.L.Vijaya',

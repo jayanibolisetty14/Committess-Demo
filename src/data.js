@@ -38,8 +38,8 @@ export const categories = [
       { id: 'Women Empowerment', name: 'Women Empowerment' }
   },
   {
-    id: 'dean internal quality assurance cell',
-    title: 'Dean Internal Quality Assurance Cell',
+    id: 'internal quality assurance cell',
+    title: ' Internal Quality Assurance Cell',
     committees: [
       { id: 'AICTE,NIRF,FFC,NBA,NAAC', name: 'AICTE,NIRF,FFC,NBA,NAAC' },
       { id: 'Academic Audit', name: 'Academic Audit' },
@@ -48,16 +48,16 @@ export const categories = [
       { id: 'Internal Complaints', name: 'Internal Complaints' }
   },
    {
-    id: 'Dean Training & Placement',
-    title: 'Dean Training & Placement',
+    id: ' Training & Placement',
+    title: ' Training & Placement',
     committees: [
       { id: 'Training', name: 'Training' },
       { id: 'Placement', name: 'Placement' },
       { id: 'Alumni', name: 'Alumni' },
   },
    {
-    id: 'dean planning & infrastructure',
-    title: 'Dean Planning & Infrastructure',
+    id: ' planning & infrastructure',
+    title: ' Planning & Infrastructure',
     committees: [
       { id: 'Infrastructure Development', name: 'Infrastructure Development' },
       { id: 'Purchase', name: 'Purchase' },
@@ -65,16 +65,16 @@ export const categories = [
       { id: 'Electrical Maintenance', name: 'Electrical Maintenance' }
   },
   {
-    id: 'dean student affairs',
-    title: 'Dean Student affairs',
+    id: ' student affairs',
+    title: ' Student affairs',
     committees: [
       { id: 'NSS/NCC', name: 'NSS/NCC' },
       { id: 'Games/Sports', name: 'Games/Sports' },
       { id: 'SAC', name: 'SAC' }
   },
   {
-    id: 'dean it services',
-    title: 'Dean IT Services',
+    id: ' it services',
+    title: ' IT Services',
     committees: [
       { id: 'Institute Magazine', name: 'Institute Magazine' },
       { id: 'Website Maintenance', name: 'Website Maintenance' },
@@ -150,20 +150,6 @@ export const committeeDetails = {
         email: ''
       }
     ],
-    studentMembers: [
-      {
-        name: 'Mr G.Venkata Santosh',
-        designation: 'Student - II Year-CSE',
-        phone: '+91-8790953761',
-        email: 'santosh.05@gmail.com'
-      },
-      {
-        name: 'B.Hamsika Sri Lakshmi Durga Anusha',
-        designation: 'Student - I-Year-CSE',
-        phone: '+91-8309953431',
-        email: '24981a057t@raghuenggcollege.in'
-      }
-    ]
   }
 };
 export const committeeDetails = {
@@ -238,20 +224,6 @@ export const committeeDetails = {
         email: ''
       }
     ],
-    studentMembers: [
-      {
-        name: 'Mr G.Venkata Santosh',
-        designation: 'Student - II Year-CSE',
-        phone: '+91-8790953761',
-        email: 'santosh.05@gmail.com'
-      },
-      {
-        name: 'B.Hamsika Sri Lakshmi Durga Anusha',
-        designation: 'Student - I-Year-CSE',
-        phone: '+91-8309953431',
-        email: '24981a057t@raghuenggcollege.in'
-      }
-    ]
   }
 };
 export const committeeDetails = {
@@ -325,20 +297,6 @@ export const committeeDetails = {
         email: ''
       }
     ],
-    studentMembers: [
-      {
-        name: 'Mr G.Venkata Santosh',
-        designation: 'Student - II Year-CSE',
-        phone: '+91-8790953761',
-        email: 'santosh.05@gmail.com'
-      },
-      {
-        name: 'B.Hamsika Sri Lakshmi Durga Anusha',
-        designation: 'Student - I-Year-CSE',
-        phone: '+91-8309953431',
-        email: ''
-      }
-    ]
   }
 };
 export const committeeDetails = {
@@ -413,20 +371,6 @@ export const committeeDetails = {
         email: ''
       }
     ],
-    studentMembers: [
-      {
-        name: 'Mr G.Venkata Santosh',
-        designation: 'Student - II Year-CSE',
-        phone: '+91-8790953761',
-        email: 'santosh.05@gmail.com'
-      },
-      {
-        name: 'B.Hamsika Sri Lakshmi Durga Anusha',
-        designation: 'Student - I-Year-CSE',
-        phone: '+91-8309953431',
-        email: '24981a057t@raghuenggcollege.in'
-      }
-    ]
   }
 };
 export const committeeDetails = {
@@ -499,20 +443,6 @@ export const committeeDetails = {
         email: ''
       }
     ],
-    studentMembers: [
-      {
-        name: 'Mr G.Venkata Santosh',
-        designation: 'Student - II Year-CSE',
-        phone: '+91-8790953761',
-        email: 'santosh.05@gmail.com'
-      },
-      {
-        name: 'B.Hamsika Sri Lakshmi Durga Anusha',
-        designation: 'Student - I-Year-CSE',
-        phone: '+91-8309953431',
-        email: '24981a057t@raghuenggcollege.in'
-      }
-    ]
   }
 };
 export const committeeDetails = {
@@ -585,20 +515,6 @@ export const committeeDetails = {
         email: ''
       }
     ],
-    studentMembers: [
-      {
-        name: 'Mr G.Venkata Santosh',
-        designation: 'Student - II Year-CSE',
-        phone: '+91-8790953761',
-        email: 'santosh.05@gmail.com'
-      },
-      {
-        name: 'B.Hamsika Sri Lakshmi Durga Anusha',
-        designation: 'Student - I-Year-CSE',
-        phone: '+91-8309953431',
-        email: '24981a057t@raghuenggcollege.in'
-      }
-    ]
   }
 };
 export const committeeDetails = {
@@ -671,20 +587,6 @@ export const committeeDetails = {
         email: ''
       }
     ],
-    studentMembers: [
-      {
-        name: 'Mr G.Venkata Santosh',
-        designation: 'Student - II Year-CSE',
-        phone: '+91-8790953761',
-        email: 'santosh.05@gmail.com'
-      },
-      {
-        name: 'B.Hamsika Sri Lakshmi Durga Anusha',
-        designation: 'Student - I-Year-CSE',
-        phone: '+91-8309953431',
-        email: '24981a057t@raghuenggcollege.in'
-      }
-    ]
   }
 };
 export const committeeDetails = {
@@ -751,20 +653,6 @@ export const committeeDetails = {
         email: 'vyshunani.pallapu@gmail.com'
       }
     ],
-    studentMembers: [
-      {
-        name: 'Mr G.Venkata Santosh',
-        designation: 'Student - II Year-CSE',
-        phone: '+91-8790953761',
-        email: 'santosh.05@gmail.com'
-      },
-      {
-        name: 'B.Hamsika Sri Lakshmi Durga Anusha',
-        designation: 'Student - I-Year-CSE',
-        phone: '+91-8309953431',
-        email: '24981a057t@raghuenggcollege.in'
-      }
-    ]
   }
 };
 export const committeeDetails = {
@@ -837,20 +725,6 @@ export const committeeDetails = {
         email: ''
       }
     ],
-    studentMembers: [
-      {
-        name: 'Mr G.Venkata Santosh',
-        designation: 'Student - II Year-CSE',
-        phone: '+91-8790953761',
-        email: 'santosh.05@gmail.com'
-      },
-      {
-        name: 'B.Hamsika Sri Lakshmi Durga Anusha',
-        designation: 'Student - I-Year-CSE',
-        phone: '+91-8309953431',
-        email: '24981a057t@raghuenggcollege.in'
-      }
-    ]
   }
 };
 export const committeeDetails = {
@@ -924,20 +798,6 @@ export const committeeDetails = {
         email: ''
       }
     ],
-    studentMembers: [
-      {
-        name: 'Mr G.Venkata Santosh',
-        designation: 'Student - II Year-CSE',
-        phone: '+91-8790953761',
-        email: 'santosh.05@gmail.com'
-      },
-      {
-        name: 'B.Hamsika Sri Lakshmi Durga Anusha',
-        designation: 'Student - I-Year-CSE',
-        phone: '+91-8309953431',
-        email: '24981a057t@raghuenggcollege.in'
-      }
-    ]
   }
 };
 export const committeeDetails = {
@@ -1011,20 +871,6 @@ export const committeeDetails = {
         email: ''
       }
     ],
-    studentMembers: [
-      {
-        name: 'Mr G.Venkata Santosh',
-        designation: 'Student - II Year-CSE',
-        phone: '+91-8790953761',
-        email: 'santosh.05@gmail.com'
-      },
-      {
-        name: 'B.Hamsika Sri Lakshmi Durga Anusha',
-        designation: 'Student - I-Year-CSE',
-        phone: '+91-8309953431',
-        email: '24981a057t@raghuenggcollege.in'
-      }
-    ]
   }
 };
 export const committeeDetails = {
@@ -1097,20 +943,6 @@ export const committeeDetails = {
         email: ''
       }
     ],
-    studentMembers: [
-      {
-        name: 'Mr G.Venkata Santosh',
-        designation: 'Student - II Year-CSE',
-        phone: '+91-8790953761',
-        email: 'santosh.05@gmail.com'
-      },
-      {
-        name: 'B.Hamsika Sri Lakshmi Durga Anusha',
-        designation: 'Student - I-Year-CSE',
-        phone: '+91-8309953431',
-        email: '24981a057t@raghuenggcollege.in'
-      }
-    ]
   }
 };
 export const committeeDetails = {
@@ -1185,20 +1017,6 @@ export const committeeDetails = {
         email: ''
       }
     ],
-    studentMembers: [
-      {
-        name: 'Mr G.Venkata Santosh',
-        designation: 'Student - II Year-CSE',
-        phone: '+91-8790953761',
-        email: 'santosh.05@gmail.com'
-      },
-      {
-        name: 'B.Hamsika Sri Lakshmi Durga Anusha',
-        designation: 'Student - I-Year-CSE',
-        phone: '+91-8309953431',
-        email: '24981a057t@raghuenggcollege.in'
-      }
-    ]
   }
 };
 export const committeeDetails = {
@@ -1272,20 +1090,6 @@ export const committeeDetails = {
         email: ''
       }
     ],
-    studentMembers: [
-      {
-        name: 'Mr G.Venkata Santosh',
-        designation: 'Student - II Year-CSE',
-        phone: '+91-8790953761',
-        email: 'santosh.05@gmail.com'
-      },
-      {
-        name: 'B.Hamsika Sri Lakshmi Durga Anusha',
-        designation: 'Student - I-Year-CSE',
-        phone: '+91-8309953431',
-        email: '24981a057t@raghuenggcollege.in'
-      }
-    ]
   }
 };
 export const committeeDetails = {
@@ -1358,20 +1162,6 @@ export const committeeDetails = {
         email: ''
       }
     ],
-    studentMembers: [
-      {
-        name: 'Mr G.Venkata Santosh',
-        designation: 'Student - II Year-CSE',
-        phone: '+91-8790953761',
-        email: 'santosh.05@gmail.com'
-      },
-      {
-        name: 'B.Hamsika Sri Lakshmi Durga Anusha',
-        designation: 'Student - I-Year-CSE',
-        phone: '+91-8309953431',
-        email: '24981a057t@raghuenggcollege.in'
-      }
-    ]
   }
 };
 export const committeeDetails = {
@@ -1438,20 +1228,6 @@ export const committeeDetails = {
         email: ''
       }
     ],
-    studentMembers: [
-      {
-        name: 'Mr G.Venkata Santosh',
-        designation: 'Student - II Year-CSE',
-        phone: '+91-8790953761',
-        email: 'santosh.05@gmail.com'
-      },
-      {
-        name: 'B.Hamsika Sri Lakshmi Durga Anusha',
-        designation: 'Student - I-Year-CSE',
-        phone: '+91-8309953431',
-        email: '24981a057t@raghuenggcollege.in'
-      }
-    ]
   }
 };
 export const committeeDetails = {
@@ -1518,20 +1294,6 @@ export const committeeDetails = {
         email: ''
       }
     ],
-    studentMembers: [
-      {
-        name: 'Mr G.Venkata Santosh',
-        designation: 'Student - II Year-CSE',
-        phone: '+91-8790953761',
-        email: 'santosh.05@gmail.com'
-      },
-      {
-        name: 'B.Hamsika Sri Lakshmi Durga Anusha',
-        designation: 'Student - I-Year-CSE',
-        phone: '+91-8309953431',
-        email: '24981a057t@raghuenggcollege.in'
-      }
-    ]
   }
 };
 export const committeeDetails = {
@@ -1613,20 +1375,6 @@ export const committeeDetails = {
         email: ''
       }
     ],
-    studentMembers: [
-      {
-        name: 'Mr G.Venkata Santosh',
-        designation: 'Student - II Year-CSE',
-        phone: '+91-8790953761',
-        email: 'santosh.05@gmail.com'
-      },
-      {
-        name: 'B.Hamsika Sri Lakshmi Durga Anusha',
-        designation: 'Student - I-Year-CSE',
-        phone: '+91-8309953431',
-        email: '24981a057t@raghuenggcollege.in'
-      }
-    ]
   }
 };
 export const committeeDetails = {
@@ -1700,20 +1448,6 @@ export const committeeDetails = {
         email: ''
       }
     ],
-    studentMembers: [
-      {
-        name: 'Mr G.Venkata Santosh',
-        designation: 'Student - II Year-CSE',
-        phone: '+91-8790953761',
-        email: 'santosh.05@gmail.com'
-      },
-      {
-        name: 'B.Hamsika Sri Lakshmi Durga Anusha',
-        designation: 'Student - I-Year-CSE',
-        phone: '+91-8309953431',
-        email: '24981a057t@raghuenggcollege.in'
-      }
-    ]
   }
 };
 export const committeeDetails = {
@@ -1786,20 +1520,6 @@ export const committeeDetails = {
         email: ''
       }
     ],
-    studentMembers: [
-      {
-        name: 'Mr G.Venkata Santosh',
-        designation: 'Student - II Year-CSE',
-        phone: '+91-8790953761',
-        email: 'santosh.05@gmail.com'
-      },
-      {
-        name: 'B.Hamsika Sri Lakshmi Durga Anusha',
-        designation: 'Student - I-Year-CSE',
-        phone: '+91-8309953431',
-        email: '24981a057t@raghuenggcollege.in'
-      }
-    ]
   }
 };
 export const committeeDetails = {
@@ -1872,20 +1592,6 @@ export const committeeDetails = {
         email: ''
       }
     ],
-    studentMembers: [
-      {
-        name: 'Mr G.Venkata Santosh',
-        designation: 'Student - II Year-CSE',
-        phone: '+91-8790953761',
-        email: 'santosh.05@gmail.com'
-      },
-      {
-        name: 'B.Hamsika Sri Lakshmi Durga Anusha',
-        designation: 'Student - I-Year-CSE',
-        phone: '+91-8309953431',
-        email: '24981a057t@raghuenggcollege.in'
-      }
-    ]
   }
 };
 export const committeeDetails = {
@@ -1960,20 +1666,6 @@ export const committeeDetails = {
         email: ''
       }
     ],
-    studentMembers: [
-      {
-        name: 'Mr G.Venkata Santosh',
-        designation: 'Student - II Year-CSE',
-        phone: '+91-8790953761',
-        email: 'santosh.05@gmail.com'
-      },
-      {
-        name: 'B.Hamsika Sri Lakshmi Durga Anusha',
-        designation: 'Student - I-Year-CSE',
-        phone: '+91-8309953431',
-        email: '24981a057t@raghuenggcollege.in'
-      }
-    ]
   }
 };
 export const committeeDetails = {
@@ -2049,20 +1741,6 @@ export const committeeDetails = {
         email: ''
       }
     ],
-    studentMembers: [
-      {
-        name: 'Mr G.Venkata Santosh',
-        designation: 'Student - II Year-CSE',
-        phone: '+91-8790953761',
-        email: 'santosh.05@gmail.com'
-      },
-      {
-        name: 'B.Hamsika Sri Lakshmi Durga Anusha',
-        designation: 'Student - I-Year-CSE',
-        phone: '+91-8309953431',
-        email: '24981a057t@raghuenggcollege.in'
-      }
-    ]
   }
 };
 export const committeeDetails = {
@@ -2126,20 +1804,6 @@ export const committeeDetails = {
       }
       
     ],
-    studentMembers: [
-      {
-        name: 'Mr G.Venkata Santosh',
-        designation: 'Student - II Year-CSE',
-        phone: '+91-8790953761',
-        email: 'santosh.05@gmail.com'
-      },
-      {
-        name: 'B.Hamsika Sri Lakshmi Durga Anusha',
-        designation: 'Student - I-Year-CSE',
-        phone: '+91-8309953431',
-        email: '24981a057t@raghuenggcollege.in'
-      }
-    ]
   }
 };
 export const committeeDetails = {
@@ -2214,20 +1878,6 @@ export const committeeDetails = {
         email: ''
       }
     ],
-    studentMembers: [
-      {
-        name: 'Mr G.Venkata Santosh',
-        designation: 'Student - II Year-CSE',
-        phone: '+91-8790953761',
-        email: 'santosh.05@gmail.com'
-      },
-      {
-        name: 'B.Hamsika Sri Lakshmi Durga Anusha',
-        designation: 'Student - I-Year-CSE',
-        phone: '+91-8309953431',
-        email: '24981a057t@raghuenggcollege.in'
-      }
-    ]
   }
 };
 export const committeeDetails = {
@@ -2297,20 +1947,6 @@ export const committeeDetails = {
         email: ''
       }
     ],
-    studentMembers: [
-      {
-        name: 'Mr G.Venkata Santosh',
-        designation: 'Student - II Year-CSE',
-        phone: '+91-8790953761',
-        email: 'santosh.05@gmail.com'
-      },
-      {
-        name: 'B.Hamsika Sri Lakshmi Durga Anusha',
-        designation: 'Student - I-Year-CSE',
-        phone: '+91-8309953431',
-        email: '24981a057t@raghuenggcollege.in'
-      }
-    ]
   }
 };
 export const committeeDetails = {
@@ -2380,20 +2016,6 @@ export const committeeDetails = {
         email: ''
       }
     ],
-    studentMembers: [
-      {
-        name: 'Mr G.Venkata Santosh',
-        designation: 'Student - II Year-CSE',
-        phone: '+91-8790953761',
-        email: 'santosh.05@gmail.com'
-      },
-      {
-        name: 'B.Hamsika Sri Lakshmi Durga Anusha',
-        designation: 'Student - I-Year-CSE',
-        phone: '+91-8309953431',
-        email: '24981a057t@raghuenggcollege.in'
-      }
-    ]
   }
 };
 export const committeeDetails = {
@@ -2463,20 +2085,6 @@ export const committeeDetails = {
         email: ''
       }
     ],
-    studentMembers: [
-      {
-        name: 'Mr G.Venkata Santosh',
-        designation: 'Student - II Year-CSE',
-        phone: '+91-8790953761',
-        email: 'santosh.05@gmail.com'
-      },
-      {
-        name: 'B.Hamsika Sri Lakshmi Durga Anusha',
-        designation: 'Student - I-Year-CSE',
-        phone: '+91-8309953431',
-        email: '24981a057t@raghuenggcollege.in'
-      }
-    ]
   }
 };
 export const committeeDetails = {
@@ -2546,20 +2154,6 @@ export const committeeDetails = {
         email: ''
       }
     ],
-    studentMembers: [
-      {
-        name: 'Mr G.Venkata Santosh',
-        designation: 'Student - II Year-CSE',
-        phone: '+91-8790953761',
-        email: 'santosh.05@gmail.com'
-      },
-      {
-        name: 'B.Hamsika Sri Lakshmi Durga Anusha',
-        designation: 'Student - I-Year-CSE',
-        phone: '+91-8309953431',
-        email: '24981a057t@raghuenggcollege.in'
-      }
-    ]
   }
 };
 export const committeeDetails = {
@@ -2629,20 +2223,6 @@ export const committeeDetails = {
         email: ''
       }
     ],
-    studentMembers: [
-      {
-        name: 'Mr G.Venkata Santosh',
-        designation: 'Student - II Year-CSE',
-        phone: '+91-8790953761',
-        email: 'santosh.05@gmail.com'
-      },
-      {
-        name: 'B.Hamsika Sri Lakshmi Durga Anusha',
-        designation: 'Student - I-Year-CSE',
-        phone: '+91-8309953431',
-        email: '24981a057t@raghuenggcollege.in'
-      }
-    ]
   }
 };
 export const committeeDetails = {

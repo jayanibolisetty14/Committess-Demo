@@ -10,8 +10,8 @@ const HomePage = () => {
       <section className="hero">
         <div className="hero-image-container">
           <img 
-            src="https://www.raghuenggcollege.com/wp-content/uploads/2021/04/non-statutory-inner.jpg" 
-            alt="Raghu Engineering College" 
+            src=""C:\Users\jayan\OneDrive\Documents\college.jpeg"" 
+            alt="Vignan's Nirula Engineering College" 
             className="hero-image"
             onError={(e) => {
               e.target.src = "https://images.unsplash.com/photo-1541339907198-e08756ebafe3?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80";

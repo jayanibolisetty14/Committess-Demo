@@ -101,8 +101,8 @@ export const committeeDetails = {
       }
       {
         role: 'Main Coordinator',
-        name: 'Dr.s.Yallamandaiah',
-        designation: 'Professor - H&S',
+        name: 'Dr.S.Yallamandaiah',
+        designation: 'Professor - BS&H',
         phone: '+91-',
         designation: '',
         phone: '',
@@ -163,7 +163,7 @@ export const committeeDetails = {
       {
         role: 'Dean',
         name: 'Dr.KVS Rama Krishna',
-        designation: 'Assistant Professor & HOD - H&S',
+        designation: 'Assistant Professor & HOD - BS&H',
         phone: '+91-9963903911',
         email: 'ksai.mb@gmail.com'
       }
@@ -198,7 +198,7 @@ export const committeeDetails = {
   
         name: 'K.Murali Krishna ',
         designation: '- ECE',
-        phone: '+91-',
+        phone: '+91-8074113694',
         email: ''
       },
 
@@ -2664,19 +2664,5 @@ export const committeeDetails = {
         email: ''
       }
     ],
-    studentMembers: [
-      {
-        name: 'Mr G.Venkata Santosh',
-        designation: 'Student - II Year-CSE',
-        phone: '+91-8790953761',
-        email: 'santosh.05@gmail.com'
-      },
-      {
-        name: 'B.Hamsika Sri Lakshmi Durga Anusha',
-        designation: 'Student - I-Year-CSE',
-        phone: '+91-8309953431',
-        email: '24981a057t@raghuenggcollege.in'
-      }
-    ]
   }
 };

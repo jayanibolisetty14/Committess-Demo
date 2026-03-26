@@ -812,7 +812,7 @@ export const committeeDetails = {
                 phone: '+91-8555956850',
                 email: 'rupa.puttala@gmail.com'
             }
-        ],
+        ]
     }
     , 'Discipline': {
         name: 'Discipline Committee',
@@ -855,9 +855,9 @@ export const committeeDetails = {
 
             {
                 name: 'E.Bhanu Prasad',
-                designation: '- ECE',
-                phone: '+91-',
-                email: ''
+                designation: 'Assistant Professor- ECE',
+                phone: '+91-9912586653',
+                email: 'bhanueppea@gmail.com'
             },
             {
                 name: 'K.Srikanth',
@@ -892,7 +892,7 @@ export const committeeDetails = {
             {
                 role: 'Dean',
                 name: 'Dr.S.Siva Venkata Ramana',
-                designation: 'Asociate Professor-CSM&CSD',
+                designation: 'Asociate Professor-CSM',
                 phone: '+91-8639882913',
                 email: 'sivanirula84@gmail.com'
             },
@@ -914,9 +914,9 @@ export const committeeDetails = {
             },
             {
                 name: 'Dr.S.Yalamandaiah',
-                designation: '- ECE',
+                designation: 'Assistant Professor- ECE',
                 phone: '+91-',
-                email: ''
+                email: 'yallamandaiah@gmail.com'
             },
             {
                 name: 'Dr.V.Pavani',
@@ -955,13 +955,6 @@ export const committeeDetails = {
                 email: 'vnits.j@gmail.com'
             },
             {
-                role: 'Dean',
-                name: 'Dr.S.Siva Venkata Ramana',
-                designation: 'Associate Professor - CSD',
-                phone: '+91-8639882913',
-                email: 'sivanirula84@gmail.com'
-            },
-            {
                 role: 'Main Coordinator',
                 name: 'Dr.S.Siva Venkata Ramana',
                 designation: 'Assistant Professor - CSM',
@@ -979,9 +972,9 @@ export const committeeDetails = {
             },
             {
                 name: 'D.Jhansi Lakshmi',
-                designation: '- ECE',
-                phone: '',
-                email: ''
+                designation: 'Assistant Professor- ECE',
+                phone: '+91-',
+                email: 'jhansi_d18@yahoo.com'
             },
             {
                 name: 'G.Lakshmi Durga',
@@ -1029,9 +1022,9 @@ export const committeeDetails = {
             {
                 role: 'Main Coordinator',
                 name: 'P.Bala Krishna',
-                designation: '- ECE',
-                phone: '+91-73826',
-                email: ''
+                designation: 'Assistant Professor- ECE',
+                phone: '+91-7382635228',
+                email: 'balakrishna.p12@gmail.com'
             }
         ],
         facultyMembers: [
@@ -1040,12 +1033,6 @@ export const committeeDetails = {
                 designation: 'Professor- CSE',
                 phone: '+91-9966135989',
                 email: 'alapatinaresh13@gmail.com'
-            },
-            {
-                name: 'A.Chenna Kesava',
-                designation: 'Assistant Professor - CSM',
-                phone: '+91-8897909053',
-                email: 'appi.chennai001@gmail.com'
             },
             {
                 name: 'A.Chenna Kesava',
@@ -1113,21 +1100,15 @@ export const committeeDetails = {
             },
             {
                 name: 'Dr.D.Anveshini',
-                designation: 'Assistant Professor - CSM',
-                phone: '+91-9381533055',
-                email: 'danveshini@gmail.com'
-            },
-            {
-                name: 'Dr.D.Anveshini',
                 designation: 'Assistant Professor - CSD',
                 phone: '+91-9381533055',
                 email: 'danveshini@gmail.com'
             },
             {
                 name: 'K.Vinuthna',
-                designation: '- ECE',
+                designation: 'Assistant Professor- ECE',
                 phone: '',
-                email: ''
+                email: 'kondaveetivinuthna@gmail.com'
             },
             {
                 name: 'S.Lakshmi Sirisha',
@@ -1164,8 +1145,8 @@ export const committeeDetails = {
                 role: 'Main Coordinator',
                 name: 'Dr.B.M.S.Rani',
                 designation: '- ECE',
-                phone: '',
-                email: ''
+                phone: '+91-9502736002',
+                email: 'ranibms@gmail.com'
             }
         ],
         facultyMembers: [
@@ -1174,12 +1155,6 @@ export const committeeDetails = {
                 designation: 'Associate Professor - CSE',
                 phone: '+91-9603956946',
                 email: 'chaitanyacns3@gmail.com'
-            },
-            {
-                name: 'M.Prasanna Kumar',
-                designation: 'Assistant Professor - CSM',
-                phone: '+91-8807149706',
-                email: 'himpkumar@gmail.com'
             },
             {
                 name: 'M.Prasanna Kumar',
@@ -1227,13 +1202,6 @@ export const committeeDetails = {
             {
                 role: 'Main Coordinator',
                 name: 'Dr.D.Anveshini',
-                designation: 'Assistant Professor - CSM',
-                phone: '+91-9381533055',
-                email: 'danveshini@gmail.com'
-            },
-            {
-                role: 'Main Coordinator',
-                name: 'Dr.D.Anveshini',
                 designation: 'Assistant Professor - CSD',
                 phone: '+91-9381533055',
                 email: 'danveshini@gmail.com'
@@ -1252,18 +1220,11 @@ export const committeeDetails = {
                 phone: '+91-9381533055',
                 email: 'danveshini@gmail.com'
             },
-
-            {
-                name: 'Dr.D.Anveshini',
-                designation: 'Assistant Professor - CSD',
-                phone: '+91-9381533055',
-                email: 'danveshini@gmail.com'
-            },
             {
                 name: 'PK.Vinuthna ',
-                designation: '- ECE',
+                designation: 'Assistant Professor- ECE',
                 phone: '+91-',
-                email: ''
+                email: 'kondaveetivinuthna@gmail.com'
             },
 
             {
@@ -1299,16 +1260,9 @@ export const committeeDetails = {
             {
                 role: 'Dean',
                 name: 'P. Silpa Chaitanya',
-                designation: 'HOD - CSM & CSD',
+                designation: 'Professor&HOD - CSM & CSD',
                 phone: '+91-9849916028',
                 email: 'silpam86@gmail.com'
-            },
-            {
-                role: 'Main Coordinator',
-                name: 'Dr.D.Naga Bhargavi',
-                designation: 'Assistant Professor - CSM',
-                phone: '+91-9490514627',
-                email: 'hasini.d1984@gmail.com'
             },
             {
                 role: 'Main Coordinator',
@@ -1327,9 +1281,9 @@ export const committeeDetails = {
             },
             {
                 name: 'M.Divya Sree',
-                designation: '- ECE',
-                phone: '',
-                email: ''
+                designation: 'Assistant Profrssor- ECE',
+                phone: '+91-9440746017',
+                email: 'divyasree.mikkili@gmail.com'
             },
             {
                 name: 'G.Rohini Phanindra Kumari',
@@ -1370,16 +1324,16 @@ export const committeeDetails = {
             {
                 role: 'Dean',
                 name: 'P. Silpa Chaitanya',
-                designation: 'HOD - CSM & CSD',
+                designation: 'Professor&HOD - CSM & CSD',
                 phone: '+91-9849916028',
                 email: 'silpam86@gmail.com'
             },
             {
                 role: 'Main Coordinator',
                 name: 'Dr.A.Hareesh',
-                designation: '- ECE',
+                designation: 'Assistant Professor- ECE',
                 phone: '',
-                email: ''
+                email: 'i.harish4u@gmail.com'
             }
         ],
         facultyMembers: [
@@ -1440,7 +1394,7 @@ export const committeeDetails = {
             {
                 role: 'Dean',
                 name: 'P. Silpa Chaitanya',
-                designation: 'HOD - CSM & CSD',
+                designation: 'Professor &HOD - CSM & CSD',
                 phone: '+91-9849916028',
                 email: 'silpam86@gmail.com'
             },
@@ -1466,16 +1420,10 @@ export const committeeDetails = {
                 email: 'hasini.d1984@gmail.com'
             },
             {
-                name: 'Dr.D.Naga Bhargavi',
-                designation: 'Assistant Professor - CSD',
-                phone: '+91-9490514627',
-                email: 'hasini.d1984@gmail.com'
-            },
-            {
                 name: 'K.Hemalatha',
                 designation: '- ECE',
-                phone: '',
-                email: ''
+                phone: '+91-7288807260',
+                email: 'bujjihema89@gmail.com'
             },
             {
                 name: 'K.Jagadeesh',
@@ -1544,9 +1492,9 @@ export const committeeDetails = {
 
             {
                 name: 'K.Hemalatha',
-                designation: '- ECE',
-                phone: '+91-',
-                email: ''
+                designation: 'Assistant Professor- ECE',
+                phone: '+91-7288807260',
+                email: 'bujjihema89@gmail.com'
             },
             {
                 name: 'S.Lakshmi Sirisha ',
@@ -1554,7 +1502,6 @@ export const committeeDetails = {
                 phone: '+91-9951687572',
                 email: 'slsirisha.s@gmail.com'
             },
-
             {
                 name: 'K.Neelima',
                 designation: 'Assistant Professor- BS&H',
@@ -1589,13 +1536,6 @@ export const committeeDetails = {
             {
                 role: 'Main Coordinator',
                 name: 'M.Prasanna Kumar',
-                designation: 'Assistant Professor - CSM',
-                phone: '+91-+91-8807149706',
-                email: 'himpkumar@gmail.com'
-            },
-            {
-                role: 'Main Coordinator',
-                name: 'M.Prasanna Kumar',
                 designation: 'Assistant Professor - CSD',
                 phone: '+91-8807149706',
                 email: 'himpkumar@gmail.com'
@@ -1612,7 +1552,7 @@ export const committeeDetails = {
                 name: 'K.Murali Krishna',
                 designation: ' - ECE',
                 phone: '+91-',
-                email: ''
+                email: 'murali.kondaveeti435@gmail.com'
             },
 
             {
@@ -1630,7 +1570,7 @@ export const committeeDetails = {
 
             {
                 name: 'K.Maha Lakshmi',
-                designation: '- BS&H',
+                designation: 'Associate Professor- BS&H',
                 phone: '+91-9492662284',
                 email: 'mhlakshmi@gmail.com'
             },
@@ -1683,9 +1623,9 @@ export const committeeDetails = {
 
             {
                 name: 'D.Jhansi Lakshmi',
-                designation: '- ',
-                phone: '+91-',
-                email: ''
+                designation: '-ECE ',
+                phone: '',
+                email: 'jhansi_d18@yahoo.com'
             },
             {
                 name: 'G.Lakshmi Durga ',
@@ -1744,9 +1684,9 @@ export const committeeDetails = {
 
             {
                 name: 'M.Samrajyam',
-                designation: '- ECE',
-                phone: '+91-',
-                email: ''
+                designation: 'Assistant Professor- ECE',
+                phone: '+91-9908568210',
+                email: 'samrajyamsuresh@gmail.com'
             },
             {
                 name: 'Ch.Vaisali ',
@@ -1785,10 +1725,10 @@ export const committeeDetails = {
                 phone: '+91-9866342224',
                 email: 'vnits.j@gmail.com'
             },
-            {
+        {
                 role: 'Dean',
                 name: 'Dr.T.V. N.Prasanna',
-                designation: 'Professor - H&S',
+                designation: 'Professor - BS&H',
                 phone: '+91-9908213405',
                 email: 'tynp11@gmail.com'
             },
@@ -1796,8 +1736,8 @@ export const committeeDetails = {
                 role: 'Main Coordinator',
                 name: 'M.Samrajyam',
                 designation: 'ECE',
-                phone: '',
-                email: ''
+                phone: '+91-9908568210',
+                email: 'samrajyamsuresh@gmail.com'
             }
         ],
         facultyMembers: [
@@ -1855,7 +1795,7 @@ export const committeeDetails = {
             {
                 role: 'Dean',
                 name: 'Dr.T.V. N.Prasanna',
-                designation: 'Professor & HOD- H&S',
+                designation: 'Professor & HOD- BH&S',
                 phone: '+91-9908213405',
                 email: 'tvnp11@gmail.com'
             },
@@ -1883,9 +1823,9 @@ export const committeeDetails = {
 
             {
                 name: 'Dr.P.Sudhakar',
-                designation: 'ECE',
-                phone: '+91-',
-                email: ''
+                designation: 'Associate Professor - ECE',
+                phone: '+91-7780405914',
+                email: 'sudhakar426@gmail.com'
             },
             {
                 name: 'G.Rohini Phanindra Kumari',
@@ -1922,7 +1862,7 @@ export const committeeDetails = {
             {
                 role: 'Dean',
                 name: 'Dr.E.Venu Madhavi',
-                designation: 'Professor - H&S',
+                designation: 'Professor - MBA',
                 phone: '+91-9441127829',
                 email: 'elurivenumadhavi@gmail.com'
             },
@@ -1950,9 +1890,9 @@ export const committeeDetails = {
 
             {
                 name: 'R.Naga Prameela',
-                designation: 'ECE',
-                phone: '+91-',
-                email: ''
+                designation: 'Assistant Professor-ECE',
+                phone: '+91-9398497747',
+                email: 'prameelaravuri860@gmail.com'
             },
             {
                 name: 'G.Lakshmi Durga',
@@ -1989,7 +1929,7 @@ export const committeeDetails = {
             {
                 role: 'Dean',
                 name: 'Dr.E.Venu Madhavi',
-                designation: 'Professor - H&S',
+                designation: 'Professor - MBA',
                 phone: '+91-9441127829',
                 email: 'elurivenumadhavi@gmail.com'
             },
@@ -2008,13 +1948,6 @@ export const committeeDetails = {
                 phone: '+91-8897909053',
                 email: 'appi.chennai001@gmail.com'
             },
-            {
-                name: 'Dr.A.Hareesh',
-                designation: ' ECE',
-                phone: '+91-',
-                email: ''
-            },
-
             {
                 name: 'K.Jagadeesh',
                 designation: 'Assistant Professor - IT',
@@ -2056,7 +1989,7 @@ export const committeeDetails = {
             {
                 role: 'Dean',
                 name: 'Dr.E.Venu Madhavi',
-                designation: 'Professor - H&S',
+                designation: 'Professor - MBA',
                 phone: '+91-9441127829',
                 email: 'elurivenumadhavi@gmail.com'
             },
@@ -2080,13 +2013,6 @@ export const committeeDetails = {
                 designation: 'Assistant Professor - CSM',
                 phone: '+91-9603184745',
                 email: 'adilakshmi581@gmal.com'
-            },
-
-            {
-                name: 'R.Naga Prameela',
-                designation: 'ECE',
-                phone: '+91-',
-                email: ''
             },
             {
                 name: 'S.Lakshmi Sirisha',
@@ -2130,9 +2056,9 @@ export const committeeDetails = {
             {
                 role: 'Main Coordinator',
                 name: 'Dr.J.Thrisul Kumar',
-                designation: '- ECE',
-                phone: '+91-',
-                email: ''
+                designation: 'Assistant Professor- ECE',
+                phone: '+91-9550501443',
+                email: 'kumarthrisul9@gmail.com'
             }
         ],
         facultyMembers: [
@@ -2142,13 +2068,6 @@ export const committeeDetails = {
                 phone: '+91-9392517845',
                 email: 'yugandhar.akkala@gmail.com'
             },
-            {
-                name: 'A.Chenna Kesava',
-                designation: 'Assistant Professor - CSM',
-                phone: '+91-8897909053',
-                email: 'appi.chennai001@gmail.com'
-            },
-
             {
                 name: 'A.Chenna Kesava',
                 designation: 'Assistant Professor - CSD',
@@ -2180,21 +2099,8 @@ export const committeeDetails = {
                 phone: '+91-9985744456',
                 email: 'vijaya.sivakiran@gmail.com'
             }
-        ],
-        studentMembers: [
-            {
-                name: 'Mr G.Venkata Santosh',
-                designation: 'Student - II Year-CSE',
-                phone: '+91-8790953761',
-                email: 'santosh.05@gmail.com'
-            },
-            {
-                name: 'B.Hamsika Sri Lakshmi Durga Anusha',
-                designation: 'Student - I-Year-CSE',
-                phone: '+91-8309953431',
-                email: '24981a057t@raghuenggcollege.in'
-            }
         ]
+       
     }
     , 'Purchase': {
         name: 'Purchase Committee',
@@ -2228,12 +2134,6 @@ export const committeeDetails = {
                 phone: '+91-7032721962',
                 email: 'syesshareenabanu@gmail.com'
             },
-            {
-                name: 'Ch.Naga Lakshmi',
-                designation: 'Assistant Professor - CSM',
-                phone: '+91-9000578812',
-                email: 'dammavalam.nagalakshmi@gmail.com'
-            },
 
             {
                 name: 'Ch.Naga Lakshmi',
@@ -2243,9 +2143,9 @@ export const committeeDetails = {
             },
             {
                 name: 'E.Bhanu Prasad ',
-                designation: '- ECE',
-                phone: '+91-',
-                email: ''
+                designation: 'Assistant Professor- ECE',
+                phone: '+91-7989412933',
+                email: 'bhanueppea@gmail.com'
             },
 
             {
@@ -2306,20 +2206,12 @@ export const committeeDetails = {
                 phone: '+91-9000578812',
                 email: 'dammavalam.nagalakshmi@gmail.com'
             },
-
-            {
-                name: 'Ch.Naga Lakshmi',
-                designation: 'Assistant Professor - CSD',
-                phone: '+91-9000578812',
-                email: 'dammavalam.nagalakshmi@gmail.com'
-            },
             {
                 name: 'M.Venkat Subba Rao ',
                 designation: '- ECE',
                 phone: '+91-',
                 email: ''
             },
-
             {
                 name: 'K.Srikanth',
                 designation: 'Assistant Professor - IT',
@@ -2328,7 +2220,7 @@ export const committeeDetails = {
             },
             {
                 name: 'J.Venkat Lakshmi',
-                designation: '- BS&H',
+                designation: '',
                 phone: '+91-',
                 email: ''
             },
@@ -2339,20 +2231,7 @@ export const committeeDetails = {
                 email: 'elurivenumadhavi@gmail.com'
             }
         ],
-        studentMembers: [
-            {
-                name: 'Mr G.Venkata Santosh',
-                designation: 'Student - II Year-CSE',
-                phone: '+91-8790953761',
-                email: 'santosh.05@gmail.com'
-            },
-            {
-                name: 'B.Hamsika Sri Lakshmi Durga Anusha',
-                designation: 'Student - I-Year-CSE',
-                phone: '+91-8309953431',
-                email: '24981a057t@raghuenggcollege.in'
-            }
-        ]
+        
     }
     , 'Electrical Maintenance': {
         name: 'Electrical Maintanance Committee',
@@ -2393,12 +2272,7 @@ export const committeeDetails = {
                 email: 'dammavalam.nagalakshmi@gmail.com'
             },
 
-            {
-                name: 'Ch.Naga Lakshmi',
-                designation: 'Assistant Professor - CSD',
-                phone: '+91-9000578812',
-                email: 'dammavalam.nagalakshmi@gmail.com'
-            },
+           
             {
                 name: 'M.Venkat Subba Rao ',
                 designation: '- ECE',
@@ -2425,20 +2299,7 @@ export const committeeDetails = {
                 email: 'rupa.puttala@gmail.com'
             }
         ],
-        studentMembers: [
-            {
-                name: 'Mr G.Venkata Santosh',
-                designation: 'Student - II Year-CSE',
-                phone: '+91-8790953761',
-                email: 'santosh.05@gmail.com'
-            },
-            {
-                name: 'B.Hamsika Sri Lakshmi Durga Anusha',
-                designation: 'Student - I-Year-CSE',
-                phone: '+91-8309953431',
-                email: '24981a057t@raghuenggcollege.in'
-            }
-        ]
+       
     }
     , 'Internal & External Examinations': {
         name: ' Internal & External Examinations Committee',
@@ -2479,17 +2340,12 @@ export const committeeDetails = {
                 email: 'dammavalam.nagalakshmi@gmail.com'
             },
 
-            {
-                name: 'Ch.Naga Lakshmi',
-                designation: 'Assistant Professor - CSD',
-                phone: '+91-9000578812',
-                email: 'dammavalam.nagalakshmi@gmail.com'
-            },
+            
             {
                 name: 'P.Ganesh Babu ',
-                designation: '- ECE',
-                phone: '+91-',
-                email: ''
+                designation: 'Assistant Professor- ECE',
+                phone: '+91-8985185747',
+                email: 'ganeshbabu.pantangi@gmail.com'
             },
 
             {

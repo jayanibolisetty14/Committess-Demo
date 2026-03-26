@@ -9,9 +9,9 @@ const HomePage = () => {
       {/* Hero Section */}
       <section className="hero">
         <div className="hero-image-container">
-          <img 
-            src=""C:\Users\jayan\OneDrive\Documents\college.jpeg"" 
-            alt="Vignan's Nirula Engineering College" 
+          <img
+            src="/assets/nirula.jpeg"
+            alt="Vignan's Nirula Engineering College"
             className="hero-image"
             onError={(e) => {
               e.target.src = "https://images.unsplash.com/photo-1541339907198-e08756ebafe3?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80";
@@ -33,9 +33,9 @@ const HomePage = () => {
               <h2 className="category-title mb-4">{category.title}</h2>
               <div className="committees-grid">
                 {category.committees.map((committee) => (
-                  <Link 
-                    to={`/committee/${committee.id}`} 
-                    key={committee.id} 
+                  <Link
+                    to={`/committee/${committee.id}`}
+                    key={committee.id}
                     className="committee-item"
                   >
                     <ArrowRightCircle className="icon-red" size={24} />
@@ -132,3 +132,4 @@ const HomePage = () => {
 };
 
 export default HomePage;
+
